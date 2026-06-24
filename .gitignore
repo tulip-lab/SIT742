@@ -28,6 +28,8 @@ staging/
 *.token
 *.secret
 
+.venv/
+
 # Cache and OS files
 __pycache__/
 .ipynb_checkpoints/
