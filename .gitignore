@@ -1,1 +1,38 @@
 /.DS_Store
+
+# Local Codex guidance folders
+.codex-local/
+.local-templates/
+.local-docs/
+.local-agents/
+_templates-local/
+
+# Private or instructor-only folders
+solutions/
+lab-solutions/
+instructor/
+instructor-notes/
+teaching-notes/
+marking-guides/
+moderation/
+private/
+docs-private/
+release-local/
+.release-local/
+_release/
+staging/
+
+# Secrets and local environment files
+.env
+.env.*
+*.pem
+*.key
+*.token
+*.secret
+
+# Cache and OS files
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+Thumbs.db
