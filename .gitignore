@@ -29,6 +29,7 @@ staging/
 *.secret
 
 .venv/
+.vscode/
 
 # Cache and OS files
 __pycache__/
