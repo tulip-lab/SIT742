@@ -1,0 +1,1568 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R] /Count 19 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+6 0 obj
+<< /Length 5110 >>
+stream
+BT /F2 19.50 Tf 0.122 0.306 0.475 rg 1 0 0 1 48.00 766.00 Tm (SIT742 2026T2 Assignment 1 Specification: Critical) Tj ET
+BT /F2 19.50 Tf 0.122 0.306 0.475 rg 1 0 0 1 48.00 738.00 Tm (Analysis) Tj ET
+q 0.839 0.878 0.918 RG 0.50 w 48.00 722.00 m 547.00 722.00 l S Q
+q 0.973 0.980 0.988 rg 0.580 0.639 0.722 RG 1.00 w 48.00 631.00 499.00 74.00 re B Q
+BT /F2 9.60 Tf 0.137 0.255 0.373 rg 1 0 0 1 62.00 688.00 Tm (Submission) Tj ET
+BT /F1 8.80 Tf 0.120 0.160 0.220 rg 1 0 0 1 62.00 676.00 Tm (Submit the required files in CloudDeakin via Assignments located under Assessment. The PDF must be) Tj ET
+BT /F1 8.80 Tf 0.120 0.160 0.220 rg 1 0 0 1 62.00 664.00 Tm (exported from your completed notebook and include your code outputs, figures, tables, and written) Tj ET
+BT /F1 8.80 Tf 0.120 0.160 0.220 rg 1 0 0 1 62.00 652.00 Tm (explanations.) Tj ET
+q 0.973 0.980 0.988 rg 0.580 0.639 0.722 RG 1.00 w 48.00 551.00 499.00 62.00 re B Q
+BT /F2 9.60 Tf 0.137 0.255 0.373 rg 1 0 0 1 62.00 596.00 Tm (Assessment Support) Tj ET
+BT /F1 8.80 Tf 0.120 0.160 0.220 rg 1 0 0 1 62.00 584.00 Tm (For current Deakin information about assessment submission, extensions, special consideration, and late) Tj ET
+BT /F1 8.80 Tf 0.120 0.160 0.220 rg 1 0 0 1 62.00 572.00 Tm (penalties, refer to the official Deakin assessment support page and the unit site.) Tj ET
+BT /F2 13.60 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 519.00 Tm (Contents) Tj ET
+q 0.839 0.878 0.918 RG 0.50 w 48.00 504.00 m 547.00 504.00 l S Q
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 488.00 Tm (- Front matter) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 473.80 Tm (- Assignment overview) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 459.60 Tm (- Learning outcomes) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 445.40 Tm (- Assessment structure) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 431.20 Tm (- Dataset and resources) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 417.00 Tm (- Starter notebook and submission workflow) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 402.80 Tm (- Part I: Python Programming Tasks) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 388.60 Tm (- Part II: HK2012-2018 Dataset Analysis and Critical Interpretation) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 374.40 Tm (- Part III: Transfer and Reflection) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 360.20 Tm (- Back matter) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 346.00 Tm (- Submission requirements) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 331.80 Tm (- Video evidence) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 317.60 Tm (- Reproducibility requirements) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 303.40 Tm (- Academic integrity and GenAI policy) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 289.20 Tm (- Extensions, special consideration, and submission policy) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 275.00 Tm (- Submission checklist) Tj ET
+BT /F2 13.60 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 242.80 Tm (Front matter) Tj ET
+q 0.839 0.878 0.918 RG 0.50 w 48.00 227.80 m 547.00 227.80 l S Q
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 203.80 Tm (Assignment overview) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 48.00 150.80 159.68 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 54.00 159.80 Tm (Item) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 207.68 150.80 339.32 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 213.68 159.80 Tm (Details) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 128.80 159.68 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 137.80 Tm (Assignment) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 207.68 128.80 339.32 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 137.80 Tm (Assignment 1) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 106.80 159.68 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 115.80 Tm (Title) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 207.68 106.80 339.32 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 115.80 Tm (Critical analysis) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 84.80 159.68 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 93.80 Tm (Unit) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 207.68 84.80 339.32 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 93.80 Tm (SIT742 Modern Data Science) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 62.80 159.68 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 71.80 Tm (Teaching period) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 207.68 62.80 339.32 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 71.80 Tm (Trimester 2, 2026) Tj ET
+q 0.880 0.900 0.940 RG 0.50 w 48.00 38.00 m 547.00 38.00 l S Q
+BT /F1 7.00 Tf 0.390 0.450 0.550 rg 1 0 0 1 48.00 24.00 Tm (SIT742 2026T2 Assignment 1 | Page 1) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 7923 >>
+stream
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 756.00 159.68 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 765.00 Tm (Mode) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 207.68 756.00 339.32 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 765.00 Tm (Individual) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 734.00 159.68 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 743.00 Tm (Weight) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 207.68 734.00 339.32 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 743.00 Tm (30% of the unit result) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 712.00 159.68 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 721.00 Tm (Internal marks) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 207.68 712.00 339.32 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 721.00 Tm (100 marks) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 690.00 159.68 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 699.00 Tm (Due date) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 207.68 690.00 339.32 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 699.00 Tm (Saturday 8 August 2026, 8pm AEST) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 668.00 159.68 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 677.00 Tm (Submission location) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 207.68 668.00 339.32 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 677.00 Tm (CloudDeakin > Assessment > Assignments) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 626.00 159.68 42.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 655.00 Tm (Required files) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 207.68 626.00 339.32 42.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 655.00 Tm (Completed notebook \(.ipynb\) and exported PDF \(.pdf\). Students aiming for High) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 645.00 Tm (Distinction may also submit an optional video; video may also be requested for) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 635.00 Tm (verification. See Video evidence.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 608.00 Tm (In this assignment, you will complete six Python programming tasks, conduct a reproducible critical analysis) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 595.80 Tm (of Hong Kong visitor-arrival and Search Intensity Index data, and reflect on how the functions, objects, and) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 583.60 Tm (workflow could transfer to another TULIP Lab open-data dataset. The assignment is designed to assess your) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 571.40 Tm (ability to write clear Python functions, load and validate public data, create reproducible analysis tables,) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 559.20 Tm (compare markets, engineer interpretable features, and explain the limits and transferability of descriptive) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 547.00 Tm (data-analysis workflows.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 528.80 Tm (No formal modelling or forecasting is required in Assignment 1.) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 502.60 Tm (Learning outcomes) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 476.60 Tm (This assignment assesses the following unit learning outcomes:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 458.40 Tm (- ULO1: Critically explore and articulate advancements in new and emerging fields in modern data science.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 444.20 Tm (- ULO2: Explain and critically analyse advanced concepts and theoretical frameworks in modern data science.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 430.00 Tm (- ULO3: Evaluate modern data analytics techniques for their effectiveness in solving real-world problems.) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 403.80 Tm (Assessment structure) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 48.00 350.80 119.76 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 54.00 359.80 Tm (Part) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 167.76 350.80 89.82 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 173.76 359.80 Tm (Component) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 257.58 350.80 289.42 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 263.58 359.80 Tm (Marks) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 318.80 119.76 32.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 337.80 Tm (Part I) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 167.76 318.80 89.82 32.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 337.80 Tm (Python Programming) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 327.80 Tm (Tasks) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 257.58 318.80 289.42 32.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 263.58 337.80 Tm (30) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 266.80 119.76 52.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 305.80 Tm (Part II) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 167.76 266.80 89.82 52.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 305.80 Tm (HK2012-2018 Dataset) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 295.80 Tm (Analysis and) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 285.80 Tm (Critical) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 275.80 Tm (Interpretation) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 257.58 266.80 289.42 52.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 263.58 305.80 Tm (60) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 234.80 119.76 32.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 253.80 Tm (Part III) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 167.76 234.80 89.82 32.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 253.80 Tm (Transfer and) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 243.80 Tm (Reflection) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 257.58 234.80 289.42 32.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 263.58 253.80 Tm (10) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 212.80 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 221.80 Tm () Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 167.76 212.80 89.82 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 221.80 Tm (Total) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 257.58 212.80 289.42 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 263.58 221.80 Tm (100) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 194.80 Tm (Part I contains six questions worth 5 marks each. Part II contains a reproducible data-analysis task using) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 182.60 Tm (the required market files. Part III is a discussion/reflection task only.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 164.40 Tm (A student-facing public rubric will be provided on the unit site together with this specification and the) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 152.20 Tm (starter notebook. It summarises the broad assessment expectations for each part and question.) Tj ET
+q 0.880 0.900 0.940 RG 0.50 w 48.00 38.00 m 547.00 38.00 l S Q
+BT /F1 7.00 Tf 0.390 0.450 0.550 rg 1 0 0 1 48.00 24.00 Tm (SIT742 2026T2 Assignment 1 | Page 2) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 6195 >>
+stream
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 770.00 Tm (Dataset and resources) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 744.00 Tm (Use the public TULIP Lab HK2012-2018 dataset.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 725.80 Tm (Dataset repository page:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 707.60 Tm (https://github.com/tulip-lab/open-data/tree/main/HK2012-2018) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 689.40 Tm (Approved raw URL base for loading CSV files in Python:) Tj ET
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 645.20 499.00 26.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 656.20 Tm (https://raw.githubusercontent.com/tulip-lab/open-data/main/HK2012-2018) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 633.20 Tm (Use the repository page to inspect the dataset files and documentation. Use the raw URL base in your) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 621.00 Tm (notebook when loading CSV files with Python. Do not use the GitHub repository page URL inside) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 608.80 Tm (pandas.read_csv\(\).) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 590.60 Tm (Required market files:) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 48.00 545.40 159.68 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 54.00 554.40 Tm (Market) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 207.68 545.40 339.32 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 213.68 554.40 Tm (File) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 523.40 159.68 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 532.40 Tm (Australia) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 207.68 523.40 339.32 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 532.40 Tm (Australia.csv) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 501.40 159.68 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 510.40 Tm (United States) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 207.68 501.40 339.32 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 510.40 Tm (United_States.csv) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 479.40 159.68 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 488.40 Tm (Thailand) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 207.68 479.40 339.32 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 488.40 Tm (Thailand.csv) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 461.40 Tm (Optional extension files:) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 48.00 416.20 159.68 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 54.00 425.20 Tm (Market) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 207.68 416.20 339.32 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 213.68 425.20 Tm (File) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 394.20 159.68 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 403.20 Tm (Philippines) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 207.68 394.20 339.32 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 403.20 Tm (Philippine.csv) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 372.20 159.68 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 381.20 Tm (Singapore) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 207.68 372.20 339.32 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 381.20 Tm (Singapore.csv) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 350.20 159.68 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 359.20 Tm (United Kingdom) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 207.68 350.20 339.32 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 359.20 Tm (United_Kingdom.csv) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 332.20 Tm (Optional extension markets may be used to add further comparative evidence. They are not required for full) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 320.00 Tm (marks or High Distinction if the required three-market analysis is already excellent.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 301.80 Tm (Dataset source and acknowledgement:) Tj ET
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 227.60 499.00 56.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 268.60 Tm (TULIP Lab HK2012-2018 dataset. Dataset associated with:) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 258.60 Tm (Zhang, Li, Muskat, and Law \(2020\), Tourism Demand Forecasting: A Decomposed Deep Learning Approach,) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 248.60 Tm (  Journal of Travel Research.) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 238.60 Tm (DOI: 10.1177/0047287520919522) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 215.60 Tm (Your notebook must clearly acknowledge the dataset source.) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 189.40 Tm (Starter notebook and submission workflow) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 163.40 Tm (You must complete the provided starter notebook for this assignment. The starter notebook contains the) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 151.20 Tm (required question structure, function stubs, object placeholders, and markdown prompts that correspond to) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 139.00 Tm (this specification.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 120.80 Tm (Use this specification as the authoritative description of the assessment requirements. Use the starter) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 108.60 Tm (notebook as the working file in which you complete your code, tables, figures, and written answers.) Tj ET
+q 0.880 0.900 0.940 RG 0.50 w 48.00 38.00 m 547.00 38.00 l S Q
+BT /F1 7.00 Tf 0.390 0.450 0.550 rg 1 0 0 1 48.00 24.00 Tm (SIT742 2026T2 Assignment 1 | Page 3) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 5122 >>
+stream
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 778.00 Tm (You may add code cells and markdown cells where needed, but you should preserve the question headings,) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 765.80 Tm (required function names, required object names, and submission structure. Replace all None placeholders with) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 753.60 Tm (completed objects. Leaving a required object as None does not satisfy the requirement.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 735.40 Tm (Your exported PDF must be generated from the completed notebook and should show your code outputs, figures,) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 723.20 Tm (tables, and written explanations.) Tj ET
+BT /F2 13.60 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 691.00 Tm (Part I: Python Programming Tasks) Tj ET
+q 0.839 0.878 0.918 RG 0.50 w 48.00 676.00 m 547.00 676.00 l S Q
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 660.00 Tm (Complete the six required functions in your starter notebook. Each function must return the required value) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 647.80 Tm (and must not rely only on printed output. Do not use interactive input.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 629.60 Tm (The Part I illustrative examples use small toy inputs to clarify the required behaviour. They are not hidden) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 617.40 Tm (tests. Your functions should work for other valid inputs that follow the same specification.) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 591.20 Tm (Question 1: `normalise_column_labels\(labels\)` [5 marks]) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 565.20 Tm (Your task:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 547.00 Tm (Write a function that converts a sequence of raw column labels into cleaned, analysis-ready column labels.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 534.80 Tm (The function must remove leading/trailing whitespace, convert labels to lowercase, replace internal) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 522.60 Tm (whitespace with underscores, and add deterministic suffixes when cleaned labels are duplicated.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 504.40 Tm (Required function signature:) Tj ET
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 450.20 499.00 36.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 471.20 Tm (def normalise_column_labels\(labels\):) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 461.20 Tm (    pass) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 438.20 Tm (Input:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 420.00 Tm (- labels: a sequence of column-label values.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 401.80 Tm (Output:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 383.60 Tm (- Return a tuple \(cleaned_labels, label_map\).) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 369.40 Tm (- cleaned_labels must be a list of cleaned column names.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 355.20 Tm (- label_map must be index-aware so duplicate original labels can still be represented. Use a list of) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 343.00 Tm (records, such as dictionaries with index, original, and cleaned keys.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 324.80 Tm (Output field meanings:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 306.60 Tm (- cleaned_labels: cleaned labels in the same order as the input.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 292.40 Tm (- label_map: an index-aware mapping from each original input position to its cleaned label.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 274.20 Tm (Constraints:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 256.00 Tm (- Strip leading and trailing whitespace.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 241.80 Tm (- Convert labels to lowercase.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 227.60 Tm (- Replace one or more internal whitespace characters with one underscore.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 213.40 Tm (- If cleaned labels are duplicated, use suffixes _2, _3, and so on.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 199.20 Tm (- Preserve the original label order.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 181.00 Tm (Illustrative example:) Tj ET
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 136.80 499.00 26.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 147.80 Tm (labels = [" Date ", "Arrival", "Search Index", "Search  Index", "Arrival "]) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 124.80 Tm (Expected output format:) Tj ET
+q 0.880 0.900 0.940 RG 0.50 w 48.00 38.00 m 547.00 38.00 l S Q
+BT /F1 7.00 Tf 0.390 0.450 0.550 rg 1 0 0 1 48.00 24.00 Tm (SIT742 2026T2 Assignment 1 | Page 4) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 5899 >>
+stream
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 672.00 499.00 106.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 763.00 Tm (cleaned_labels = ["date", "arrival", "search_index", "search_index_2", "arrival_2"]) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 753.00 Tm () Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 743.00 Tm (label_map = [) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 733.00 Tm (    {"index": 0, "original": " Date ", "cleaned": "date"},) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 723.00 Tm (    {"index": 1, "original": "Arrival", "cleaned": "arrival"},) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 713.00 Tm (    {"index": 2, "original": "Search Index", "cleaned": "search_index"},) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 703.00 Tm (    {"index": 3, "original": "Search  Index", "cleaned": "search_index_2"},) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 693.00 Tm (    {"index": 4, "original": "Arrival ", "cleaned": "arrival_2"},) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 683.00 Tm (]) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 660.00 Tm (Dataset connection:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 641.80 Tm (This function is useful in Part II because real CSV files may contain spaces, inconsistent capitalisation,) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 629.60 Tm (or repeated-looking column names.) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 603.40 Tm (Question 2: `validate_monthly_date_range\(date_values, start="2012-01", end="2018-12"\)` [5) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 586.40 Tm (marks]) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 564.40 Tm (Your task:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 546.20 Tm (Write a function that checks whether a sequence of date values can be parsed as monthly dates and covers) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 534.00 Tm (every month from the required start month to the required end month.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 515.80 Tm (Required function signature:) Tj ET
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 461.60 499.00 36.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 482.60 Tm (def validate_monthly_date_range\(date_values, start="2012-01", end="2018-12"\):) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 472.60 Tm (    pass) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 449.60 Tm (Input:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 431.40 Tm (- date_values: a sequence of date-like values.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 417.20 Tm (- start: required start month as a string such as "2012-01".) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 403.00 Tm (- end: required end month as a string such as "2018-12".) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 384.80 Tm (Output:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 366.60 Tm (- Return a dictionary with deterministic keys.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 352.40 Tm (- The dictionary must include at least is_complete, start, end, n_periods, missing_months, and extra_months.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 334.20 Tm (Output field meanings:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 316.00 Tm (- is_complete: True if every expected month from start to end is present and no required month is missing;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 303.80 Tm (otherwise False.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 289.60 Tm (- start: the required start month used for validation, formatted as YYYY-MM.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 275.40 Tm (- end: the required end month used for validation, formatted as YYYY-MM.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 261.20 Tm (- n_periods: the number of distinct valid monthly periods found in date_values after parsing and normalising) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 249.00 Tm (to months.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 234.80 Tm (- missing_months: expected months between start and end that are not present in date_values, formatted as) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 222.60 Tm (YYYY-MM strings.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 208.40 Tm (- extra_months: parsed months that are present in date_values but fall outside the required start to end) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 196.20 Tm (range, formatted as YYYY-MM strings.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 178.00 Tm (Constraints:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 159.80 Tm (- Parse values into monthly periods or month-start timestamps.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 145.60 Tm (- Check whether all expected months from start to end are present.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 131.40 Tm (- Report missing months as strings such as "2012-03".) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 117.20 Tm (- Report months outside the expected range in extra_months.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 103.00 Tm (- If the same month appears more than once, count it once in n_periods after parsing, but still detect) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 90.80 Tm (missing and extra months correctly.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 72.60 Tm (Illustrative example:) Tj ET
+q 0.880 0.900 0.940 RG 0.50 w 48.00 38.00 m 547.00 38.00 l S Q
+BT /F1 7.00 Tf 0.390 0.450 0.550 rg 1 0 0 1 48.00 24.00 Tm (SIT742 2026T2 Assignment 1 | Page 5) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 5032 >>
+stream
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 742.00 499.00 36.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 763.00 Tm (date_values = ["2012-01", "2012-02", "2012-04"]) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 753.00 Tm (result = validate_monthly_date_range\(date_values, start="2012-01", end="2012-04"\)) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 730.00 Tm (Expected output shape:) Tj ET
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 615.80 499.00 96.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 696.80 Tm ({) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 686.80 Tm (    "is_complete": False,) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 676.80 Tm (    "start": "2012-01",) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 666.80 Tm (    "end": "2012-04",) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 656.80 Tm (    "n_periods": 3,) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 646.80 Tm (    "missing_months": ["2012-03"],) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 636.80 Tm (    "extra_months": [],) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 626.80 Tm (}) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 603.80 Tm (Here, n_periods is 3 because the input contains three distinct parsed months: 2012-01, 2012-02, and 2012-04.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 585.60 Tm (Dataset connection:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 567.40 Tm (This function is directly useful in Part II when verifying that each required market file contains a) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 555.20 Tm (complete monthly series from 2012-01 to 2018-12.) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 529.00 Tm (Question 3: `make_tidy_arrival_table\(market_frames\)` [5 marks]) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 503.00 Tm (Your task:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 484.80 Tm (Write a function that combines arrival columns from multiple market DataFrames into one tidy table with one) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 472.60 Tm (row per market-month.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 454.40 Tm (Required function signature:) Tj ET
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 400.20 499.00 36.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 421.20 Tm (def make_tidy_arrival_table\(market_frames\):) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 411.20 Tm (    pass) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 388.20 Tm (Input:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 370.00 Tm (- market_frames: a dictionary where keys are market names and values are DataFrames containing at least a) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 357.80 Tm (date column and an arrival column.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 339.60 Tm (Output:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 321.40 Tm (- Return a pandas DataFrame with at least date, market, and arrival columns.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 303.20 Tm (Constraints:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 285.00 Tm (- Preserve all markets provided in market_frames.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 270.80 Tm (- Add the market name from the dictionary key.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 256.60 Tm (- Keep only the required tidy columns unless you clearly document additional columns.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 242.40 Tm (- Sort by market and date, or otherwise produce a clearly reproducible order.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 228.20 Tm (- The function may preserve the original date values. Date parsing and monthly-range validation are assessed) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 216.00 Tm (in Part II. If you parse dates inside this function, do so consistently.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 197.80 Tm (Illustrative example:) Tj ET
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 123.60 499.00 56.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 164.60 Tm (market_frames = {) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 154.60 Tm (    "Australia": pd.DataFrame\({"date": ["2012-01", "2012-02"], "arrival": [100, 120]}\),) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 144.60 Tm (    "Thailand": pd.DataFrame\({"date": ["2012-01", "2012-02"], "arrival": [80, 90]}\),) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 134.60 Tm (}) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 111.60 Tm (Expected output shape:) Tj ET
+q 0.880 0.900 0.940 RG 0.50 w 48.00 38.00 m 547.00 38.00 l S Q
+BT /F1 7.00 Tf 0.390 0.450 0.550 rg 1 0 0 1 48.00 24.00 Tm (SIT742 2026T2 Assignment 1 | Page 6) Tj ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 7092 >>
+stream
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 48.00 751.00 119.76 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 54.00 760.00 Tm (date) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 167.76 751.00 89.82 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 173.76 760.00 Tm (market) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 257.58 751.00 289.42 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 263.58 760.00 Tm (arrival) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 729.00 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 738.00 Tm (2012-01) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 167.76 729.00 89.82 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 738.00 Tm (Australia) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 257.58 729.00 289.42 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 263.58 738.00 Tm (100) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 707.00 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 716.00 Tm (2012-02) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 167.76 707.00 89.82 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 716.00 Tm (Australia) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 257.58 707.00 289.42 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 263.58 716.00 Tm (120) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 685.00 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 694.00 Tm (2012-01) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 167.76 685.00 89.82 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 694.00 Tm (Thailand) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 257.58 685.00 289.42 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 263.58 694.00 Tm (80) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 663.00 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 672.00 Tm (2012-02) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 167.76 663.00 89.82 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 672.00 Tm (Thailand) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 257.58 663.00 289.42 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 263.58 672.00 Tm (90) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 645.00 Tm (Dataset workflow connection:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 626.80 Tm (In Part II, after you load and clean the three required market files, you will have one cleaned DataFrame) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 614.60 Tm (for each market. Question 3 asks you to write a reusable helper that takes a dictionary of these) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 602.40 Tm (market-level DataFrames and stacks their arrival series into one tidy table. This tidy table is the same) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 590.20 Tm (style of object required later as tidy_arrivals.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 572.00 Tm (For the real A1 dataset, market_frames may correspond to cleaned DataFrames for Australia, United States,) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 559.80 Tm (and Thailand. Each DataFrame should contain a date column and an arrival column after your cleaning step.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 547.60 Tm (The function should add a market column using the dictionary key and return one row per market-month.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 529.40 Tm (The illustrative example uses small toy DataFrames. In Part II, the same idea should scale to the required) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 517.20 Tm (market files.) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 491.00 Tm (Question 4: `summarise_numeric_columns\(df, exclude=\("date",\)\)` [5 marks]) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 465.00 Tm (Your task:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 446.80 Tm (Write a function that inspects the columns of a DataFrame and summarises which columns can be treated as) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 434.60 Tm (numeric analysis columns.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 416.40 Tm (Required function signature:) Tj ET
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 362.20 499.00 36.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 383.20 Tm (def summarise_numeric_columns\(df, exclude=\("date",\)\):) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 373.20 Tm (    pass) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 350.20 Tm (Input:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 332.00 Tm (- df: a pandas DataFrame.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 317.80 Tm (- exclude: column names to exclude from numeric-column checking.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 299.60 Tm (Output:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 281.40 Tm (- Return a summary DataFrame or dictionary with clear fields.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 267.20 Tm (- Recommended return format: a pandas DataFrame with column, can_convert_numeric, n_missing, n_unique, and) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 255.00 Tm (example_value.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 236.80 Tm (Output field meanings:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 218.60 Tm (- can_convert_numeric: True if the column is already numeric or can be converted to numeric without creating) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 206.40 Tm (invalid values for the non-missing entries.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 192.20 Tm (- example_value: one representative non-missing value from the original column, where available.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 174.00 Tm (Constraints:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 155.80 Tm (- Exclude columns listed in exclude.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 141.60 Tm (- Determine which remaining columns are numeric or can be converted to numeric.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 127.40 Tm (- can_convert_numeric should indicate whether the column is already numeric or can be safely converted to) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 115.20 Tm (numeric for analysis.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 101.00 Tm (- Include enough information to support schema audit and SII feature identification.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 82.80 Tm (Illustrative example:) Tj ET
+q 0.880 0.900 0.940 RG 0.50 w 48.00 38.00 m 547.00 38.00 l S Q
+BT /F1 7.00 Tf 0.390 0.450 0.550 rg 1 0 0 1 48.00 24.00 Tm (SIT742 2026T2 Assignment 1 | Page 7) Tj ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 7084 >>
+stream
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 702.00 499.00 76.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 763.00 Tm (df = pd.DataFrame\({) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 753.00 Tm (    "date": ["2012-01", "2012-02"],) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 743.00 Tm (    "arrival": [100, 120],) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 733.00 Tm (    "hotel search": [0.3, 0.4],) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 723.00 Tm (    "note": ["ok", "ok"],) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 713.00 Tm (}\)) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 690.00 Tm (Expected output shape:) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 48.00 644.80 99.80 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 54.00 653.80 Tm (column) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 147.80 644.80 39.92 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 153.80 653.80 Tm (can_convert_numeric) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 187.72 644.80 119.76 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 193.72 653.80 Tm (n_missing) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 307.48 644.80 119.76 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 313.48 653.80 Tm (n_unique) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 427.24 644.80 119.76 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 433.24 653.80 Tm (example_value) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 622.80 99.80 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 631.80 Tm (arrival) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 147.80 622.80 39.92 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 153.80 631.80 Tm (True) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 187.72 622.80 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 193.72 631.80 Tm (0) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 307.48 622.80 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 313.48 631.80 Tm (2) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 427.24 622.80 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 433.24 631.80 Tm (100) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 600.80 99.80 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 609.80 Tm (hotel search) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 147.80 600.80 39.92 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 153.80 609.80 Tm (True) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 187.72 600.80 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 193.72 609.80 Tm (0) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 307.48 600.80 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 313.48 609.80 Tm (2) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 427.24 600.80 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 433.24 609.80 Tm (0.3) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 578.80 99.80 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 587.80 Tm (note) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 147.80 578.80 39.92 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 153.80 587.80 Tm (False) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 187.72 578.80 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 193.72 587.80 Tm (0) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 307.48 578.80 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 313.48 587.80 Tm (1) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 427.24 578.80 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 433.24 587.80 Tm (ok) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 560.80 Tm (Dataset connection:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 542.60 Tm (This function helps identify arrival and Search Intensity Index columns before feature engineering in Part) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 530.40 Tm (II.) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 504.20 Tm (Question 5: `rolling_mean_manual\(values, window\)` [5 marks]) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 478.20 Tm (Your task:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 460.00 Tm (Write a function that manually computes a trailing rolling mean for a numeric sequence, returning None until) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 447.80 Tm (enough previous values are available.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 429.60 Tm (Required function signature:) Tj ET
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 375.40 499.00 36.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 396.40 Tm (def rolling_mean_manual\(values, window\):) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 386.40 Tm (    pass) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 363.40 Tm (Input:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 345.20 Tm (- values: a sequence of numeric values.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 331.00 Tm (- window: the trailing window size.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 312.80 Tm (Output:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 294.60 Tm (- Return a list with the same length as values.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 276.40 Tm (Output alignment:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 258.20 Tm (- A trailing window uses the current value and the previous window - 1 values.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 244.00 Tm (- The output index aligns with the input index.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 229.80 Tm (- The first window - 1 positions should be None.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 211.60 Tm (Constraints:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 193.40 Tm (- Before a full window is available, return None.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 179.20 Tm (- If window <= 0, raise ValueError.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 165.00 Tm (- Do not use pandas.rolling\(\) or NumPy rolling helpers.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 146.80 Tm (Illustrative example:) Tj ET
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 92.60 499.00 36.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 113.60 Tm (values = [10, 20, 30, 40]) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 103.60 Tm (window = 3) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 80.60 Tm (Expected output:) Tj ET
+q 0.880 0.900 0.940 RG 0.50 w 48.00 38.00 m 547.00 38.00 l S Q
+BT /F1 7.00 Tf 0.390 0.450 0.550 rg 1 0 0 1 48.00 24.00 Tm (SIT742 2026T2 Assignment 1 | Page 8) Tj ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 20 0 R >>
+endobj
+22 0 obj
+<< /Length 4452 >>
+stream
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 752.00 499.00 26.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 763.00 Tm ([None, None, 20.0, 30.0]) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 740.00 Tm (Explanation:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 721.80 Tm (The first rolling mean is available at index 2 because values 10, 20, and 30 form the first complete window.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 703.60 Tm (Dataset connection:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 685.40 Tm (This is directly related to the arrival_roll3_mean and arrival_roll12_mean features in Part II.) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 659.20 Tm (Question 6: `detect_local_extrema\(values\)` [5 marks]) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 633.20 Tm (Your task:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 615.00 Tm (Write a function that finds strict local peaks and valleys in a numeric sequence using neighbouring values.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 596.80 Tm (Required function signature:) Tj ET
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 542.60 499.00 36.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 563.60 Tm (def detect_local_extrema\(values\):) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 553.60 Tm (    pass) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 530.60 Tm (Input:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 512.40 Tm (- values: a sequence of numeric values.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 494.20 Tm (Output:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 476.00 Tm (- Return a dictionary in this form:) Tj ET
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 431.80 499.00 26.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 442.80 Tm ({"peaks": [indices], "valleys": [indices]}) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 419.80 Tm (Returned indices:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 401.60 Tm (- Returned indices refer to positions in the original input sequence.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 387.40 Tm (- Strict local extrema use immediate neighbours only.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 373.20 Tm (- Equal neighbouring values do not count.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 355.00 Tm (Constraints:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 336.80 Tm (- Endpoints are not extrema.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 322.60 Tm (- A strict peak occurs when values[i-1] < values[i] > values[i+1].) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 308.40 Tm (- A strict valley occurs when values[i-1] > values[i] < values[i+1].) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 294.20 Tm (- Flat neighbours and plateaus are not counted.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 280.00 Tm (- Use zero-based indices.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 261.80 Tm (Illustrative example:) Tj ET
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 217.60 499.00 26.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 228.60 Tm (values = [3, 5, 4, 4, 6, 2, 3]) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 205.60 Tm (Expected output:) Tj ET
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 161.40 499.00 26.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 172.40 Tm ({"peaks": [1, 4], "valleys": [5]}) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 149.40 Tm (Explanation:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 131.20 Tm (Index 1 is a peak because 3 < 5 > 4. Index 4 is a peak because 4 < 6 > 2. Index 5 is a valley because 6 > 2) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 119.00 Tm (< 3. The flat pair at indices 2 and 3 is not counted as a local extremum.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 100.80 Tm (Dataset connection:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 82.60 Tm (This is related to identifying local peaks and valleys in monthly arrivals in Part II.) Tj ET
+q 0.880 0.900 0.940 RG 0.50 w 48.00 38.00 m 547.00 38.00 l S Q
+BT /F1 7.00 Tf 0.390 0.450 0.550 rg 1 0 0 1 48.00 24.00 Tm (SIT742 2026T2 Assignment 1 | Page 9) Tj ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 22 0 R >>
+endobj
+24 0 obj
+<< /Length 7836 >>
+stream
+BT /F2 13.60 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 764.00 Tm (Part II: HK2012-2018 Dataset Analysis and Critical Interpretation) Tj ET
+q 0.839 0.878 0.918 RG 0.50 w 48.00 749.00 m 547.00 749.00 l S Q
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 733.00 Tm (Part II is worth 60 marks. Complete Questions 7 to 11 using the three required market files.) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 48.00 687.80 119.76 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 54.00 696.80 Tm (Question) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 167.76 687.80 89.82 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 173.76 696.80 Tm (Component) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 257.58 687.80 289.42 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 263.58 696.80 Tm (Marks) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 655.80 119.76 32.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 674.80 Tm (Question 7) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 167.76 655.80 89.82 32.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 674.80 Tm (Data access and) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 664.80 Tm (schema audit) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 257.58 655.80 289.42 32.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 263.58 674.80 Tm (10) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 613.80 119.76 42.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 642.80 Tm (Question 8) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 167.76 613.80 89.82 42.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 642.80 Tm (Cleaning and) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 632.80 Tm (reproducible) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 622.80 Tm (analysis tables) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 257.58 613.80 289.42 42.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 263.58 642.80 Tm (10) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 561.80 119.76 52.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 600.80 Tm (Question 9) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 167.76 561.80 89.82 52.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 600.80 Tm (Exploratory data) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 590.80 Tm (analysis and) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 580.80 Tm (cross-market) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 570.80 Tm (comparison) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 257.58 561.80 289.42 52.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 263.58 600.80 Tm (15) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 529.80 119.76 32.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 548.80 Tm (Question 10) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 167.76 529.80 89.82 32.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 548.80 Tm (Feature engineering) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 538.80 Tm (and SII analysis) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 257.58 529.80 289.42 32.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 263.58 548.80 Tm (15) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 467.80 119.76 62.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 516.80 Tm (Question 11) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 167.76 467.80 89.82 62.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 516.80 Tm (Critical) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 506.80 Tm (interpretation,) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 496.80 Tm (limitations, and) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 486.80 Tm (project-planning) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 476.80 Tm (insight) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 257.58 467.80 289.42 62.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 263.58 516.80 Tm (10) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 445.80 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 454.80 Tm () Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 167.76 445.80 89.82 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 454.80 Tm (Total) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 257.58 445.80 289.42 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 263.58 454.80 Tm (60) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 427.80 Tm (Communication, reproducibility, notebook clarity, figure/table labelling, dataset acknowledgement, and) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 415.60 Tm (avoidance of local absolute paths are assessed within the relevant Part II questions and the final submitted) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 403.40 Tm (notebook/PDF. They are not a separate scored question.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 385.20 Tm (Part I functions are assessed independently. In Part II, you are encouraged to reuse them where appropriate,) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 373.00 Tm (but equivalent correct and reproducible implementations are acceptable.) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 346.80 Tm (EDA and visualisation expectations) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 320.80 Tm (Exploratory data analysis \(EDA\) in this assignment means using summary tables, simple derived measures, and) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 308.60 Tm (clearly labelled visualisations to understand and compare the three required markets before making critical) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 296.40 Tm (interpretations.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 278.20 Tm (At minimum, your Part II analysis should include:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 260.00 Tm (- one time-series comparison figure showing monthly arrivals for the three required markets;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 245.80 Tm (- one yearly or annual-summary table, such as annual_summary;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 231.60 Tm (- one comparison of growth or first-to-last change;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 217.40 Tm (- one comparison of volatility, seasonality, or month-level patterns;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 203.20 Tm (- clearly labelled figure titles, axis labels, legends, and table captions or surrounding explanations.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 185.00 Tm (Visualisations should support your analysis rather than act as decoration. A figure should be referenced in) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 172.80 Tm (the written discussion and should help explain a specific comparison, trend, pattern, or limitation.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 154.60 Tm (Suitable visualisations may include line charts for monthly trends, bar charts for annual or seasonal) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 142.40 Tm (comparisons, and scatter plots or small multiples if used carefully for SII-arrival relationships. You are) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 130.20 Tm (not required to create complex dashboards or interactive visualisations.) Tj ET
+q 0.880 0.900 0.940 RG 0.50 w 48.00 38.00 m 547.00 38.00 l S Q
+BT /F1 7.00 Tf 0.390 0.450 0.550 rg 1 0 0 1 48.00 24.00 Tm (SIT742 2026T2 Assignment 1 | Page 10) Tj ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 24 0 R >>
+endobj
+26 0 obj
+<< /Length 11753 >>
+stream
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 770.00 Tm (Required analysis objects) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 744.00 Tm (Required object names help organise your notebook and help markers locate outputs. Merely creating the) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 731.80 Tm (object name does not guarantee marks: the object must contain the required structure and evidence for the) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 719.60 Tm (relevant question. The placeholder value None must be replaced with your completed object.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 701.40 Tm (The exact numerical values are not prescribed in the specification, but the object structure must be clear) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 689.20 Tm (and reproducible.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 671.00 Tm (The required object structures define minimum assessable evidence. Higher marks require correct computation,) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 658.80 Tm (clear explanation, appropriate interpretation, and reproducible presentation.) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 48.00 613.60 89.82 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 54.00 622.60 Tm (Object) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 137.82 613.60 69.86 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 143.82 622.60 Tm (Type) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 207.68 613.60 239.52 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 213.68 622.60 Tm (Required structure) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 447.20 613.60 99.80 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 453.20 622.60 Tm (Created in) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 551.60 89.82 62.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 600.60 Tm (raw_market_data) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 137.82 551.60 69.86 62.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 143.82 600.60 Tm (dictionary) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 207.68 551.60 239.52 62.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 600.60 Tm (Required keys: "Australia", "United States", "Thailand".) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 590.60 Tm (Values: original DataFrames loaded from the required CSV) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 580.60 Tm (files. DataFrame index is not prescribed. Each DataFrame) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 570.60 Tm (must contain identifiable date and arrival columns before) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 560.60 Tm (cleaning.) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 447.20 551.60 99.80 62.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 453.20 600.60 Tm (Question 7) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 499.60 89.82 52.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 538.60 Tm (schema_audit) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 137.82 499.60 69.86 52.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 143.82 538.60 Tm (pandas DataFrame) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 207.68 499.60 239.52 52.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 538.60 Tm (Required columns: market, rows, columns, date_min,) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 528.60 Tm (date_max, date_ordered, missing_cells, arrival_numeric,) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 518.60 Tm (n_numeric_columns, column_issues. Include one row for each) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 508.60 Tm (required market.) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 447.20 499.60 99.80 52.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 453.20 538.60 Tm (Question 7) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 417.60 89.82 82.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 486.60 Tm (clean_market_data) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 137.82 417.60 69.86 82.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 143.82 486.60 Tm (dictionary) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 207.68 417.60 239.52 82.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 486.60 Tm (Same required keys as raw_market_data. Values: cleaned) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 476.60 Tm (DataFrames with cleaned column labels; dates parsed or) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 466.60 Tm (clearly parseable; numeric columns converted where) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 456.60 Tm (appropriate. The cleaned DataFrames should retain the) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 446.60 Tm (arrival column and original SII-related numeric columns) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 436.60 Tm (needed for later analysis. DataFrame index is not) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 426.60 Tm (prescribed.) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 447.20 417.60 99.80 82.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 453.20 486.60 Tm (Question 8) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 335.60 89.82 82.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 404.60 Tm (tidy_arrivals) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 137.82 335.60 69.86 82.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 143.82 404.60 Tm (pandas DataFrame) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 207.68 335.60 239.52 82.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 404.60 Tm (Required columns: date, market, arrival. date should) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 394.60 Tm (preferably be pandas datetime/month-start timestamp;) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 384.60 Tm (consistently formatted and parseable date strings are) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 374.60 Tm (acceptable. Required markets: Australia, United States,) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 364.60 Tm (Thailand. Expected row count: 252, based on 3 markets x 84) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 354.60 Tm (monthly rows, unless a clearly documented data issue is) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 344.60 Tm (found. One row per market-month.) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 447.20 335.60 99.80 82.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 453.20 404.60 Tm (Question 8) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 273.60 89.82 62.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 322.60 Tm (annual_summary) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 137.82 273.60 69.86 62.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 143.82 322.60 Tm (pandas DataFrame) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 207.68 273.60 239.52 62.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 322.60 Tm (Required columns: market, year. year should be an integer) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 312.60 Tm (year such as 2012. Include at least one annual arrival) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 302.60 Tm (summary column such as annual_total_arrival or) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 292.60 Tm (annual_mean_arrival. Recommended additional columns:) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 282.60 Tm (annual_sd_arrival, first_month_arrival, last_month_arrival.) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 447.20 273.60 99.80 62.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 453.20 322.60 Tm (Question 9) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 221.60 89.82 52.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 260.60 Tm (feature_table) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 137.82 221.60 69.86 52.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 143.82 260.60 Tm (pandas DataFrame) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 207.68 221.60 239.52 52.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 260.60 Tm (Required columns: date, market, arrival, year, month,) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 250.60 Tm (arrival_diff, arrival_pct_change, arrival_roll3_mean,) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 240.60 Tm (arrival_roll12_mean, arrival_volatility_3, is_local_peak,) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 230.60 Tm (is_local_valley.) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 447.20 221.60 99.80 52.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 453.20 260.60 Tm (Question 10) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 159.60 89.82 62.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 208.60 Tm (selected_sii_features) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 137.82 159.60 69.86 62.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 143.82 208.60 Tm (list of strings) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 207.68 159.60 239.52 62.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 208.60 Tm (At least three selected original SII feature names from the) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 198.60 Tm (cleaned original CSV columns. The names in) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 188.60 Tm (selected_sii_features must match columns in the cleaned) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 178.60 Tm (original data. Do not include date, market, arrival, or) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 168.60 Tm (derived arrival features.) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 447.20 159.60 99.80 62.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 453.20 208.60 Tm (Question 10) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 87.60 89.82 72.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 146.60 Tm (sii_summary) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 137.82 87.60 69.86 72.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 143.82 146.60 Tm (pandas DataFrame) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 207.68 87.60 239.52 72.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 146.60 Tm (Required columns: market, feature, feature_mean,) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 136.60 Tm (feature_sd, relationship_measure, relationship_value,) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 126.60 Tm (interpretation_note. Include one or more rows for each) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 116.60 Tm (selected SII feature and market. interpretation_note should) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 106.60 Tm (briefly state what the relationship measure suggests and) Tj ET
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 213.68 96.60 Tm (what it does not prove.) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 447.20 87.60 99.80 72.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 453.20 146.60 Tm (Question 10) Tj ET
+q 0.880 0.900 0.940 RG 0.50 w 48.00 38.00 m 547.00 38.00 l S Q
+BT /F1 7.00 Tf 0.390 0.450 0.550 rg 1 0 0 1 48.00 24.00 Tm (SIT742 2026T2 Assignment 1 | Page 11) Tj ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 26 0 R >>
+endobj
+28 0 obj
+<< /Length 11402 >>
+stream
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 778.00 Tm (The 252-row expectation for tidy_arrivals is a structural expectation based on three required markets with) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 765.80 Tm (84 monthly rows each.) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 739.60 Tm (Required derived-field definitions) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 713.60 Tm (Rolling features and local extrema must be computed within each market, not across the concatenated dataset.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 695.40 Tm (- year: calendar year extracted from date.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 681.20 Tm (- month: calendar month extracted from date, preferably as an integer from 1 to 12.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 667.00 Tm (- arrival_diff: month-to-month difference in arrival within each market.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 652.80 Tm (- arrival_pct_change: month-to-month percentage change in arrival within each market. The first month for) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 640.60 Tm (each market may be NaN or None.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 626.40 Tm (- arrival_roll3_mean: trailing 3-month rolling mean of arrival within each market.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 612.20 Tm (- arrival_roll12_mean: trailing 12-month rolling mean of arrival within each market.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 598.00 Tm (- arrival_volatility_3: trailing 3-month rolling standard deviation of arrival within each market.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 583.80 Tm (- is_local_peak: boolean indicator showing whether the month is a strict local peak in arrival within the) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 571.60 Tm (same market.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 557.40 Tm (- is_local_valley: boolean indicator showing whether the month is a strict local valley in arrival within) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 545.20 Tm (the same market.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 527.00 Tm (Note on output-shape examples: The tables below show the required output structure only. They are not) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 514.80 Tm (complete results and they are not fixed values. Your submitted tables must include all required rows for the) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 502.60 Tm (three required markets. Replace ... with values computed from the dataset.) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 476.40 Tm (Question 7: Data access and schema audit [10 marks]) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 450.40 Tm (Your task:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 432.20 Tm (Load the three required market files from the approved raw URL base and audit their structure.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 414.00 Tm (Your notebook should include both code and a short written explanation of what you found during the schema) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 401.80 Tm (audit.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 383.60 Tm (Required outputs:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 365.40 Tm (- a short explanation of how the files were loaded;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 351.20 Tm (- a schema_audit table for Australia, the United States, and Thailand;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 337.00 Tm (- row and column counts for each file;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 322.80 Tm (- date range for each file;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 308.60 Tm (- date ordering check;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 294.40 Tm (- missing-cell counts;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 280.20 Tm (- numeric parsing status;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 266.00 Tm (- important column-name issues that may affect analysis;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 251.80 Tm (- clear dataset-source acknowledgement;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 237.60 Tm (- loading code that uses the approved raw URL base and does not rely on local absolute paths.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 219.40 Tm (Example schema-audit table structure, not complete results:) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 48.00 174.20 49.90 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 54.00 183.20 Tm (market) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 97.90 174.20 49.90 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 103.90 183.20 Tm (rows) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 147.80 174.20 49.90 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 153.80 183.20 Tm (columns) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 197.70 174.20 49.90 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 203.70 183.20 Tm (date_min) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 247.60 174.20 49.90 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 253.60 183.20 Tm (date_max) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 297.50 174.20 49.90 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 303.50 183.20 Tm (date_ordered) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 347.40 174.20 49.90 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 353.40 183.20 Tm (missing_cells) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 397.30 174.20 49.90 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 403.30 183.20 Tm (arrival_numeric) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 447.20 174.20 49.90 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 453.20 183.20 Tm (n_numeric_columns) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 497.10 174.20 49.90 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 503.10 183.20 Tm (column_issues) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 152.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 161.20 Tm (Australia) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 97.90 152.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 103.90 161.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 147.80 152.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 153.80 161.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 197.70 152.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 203.70 161.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 247.60 152.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 253.60 161.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 297.50 152.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 303.50 161.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 347.40 152.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 353.40 161.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 397.30 152.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 403.30 161.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 447.20 152.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 453.20 161.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 497.10 152.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 503.10 161.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 130.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 139.20 Tm (United States) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 97.90 130.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 103.90 139.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 147.80 130.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 153.80 139.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 197.70 130.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 203.70 139.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 247.60 130.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 253.60 139.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 297.50 130.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 303.50 139.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 347.40 130.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 353.40 139.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 397.30 130.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 403.30 139.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 447.20 130.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 453.20 139.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 497.10 130.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 503.10 139.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 108.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 117.20 Tm (Thailand) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 97.90 108.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 103.90 117.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 147.80 108.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 153.80 117.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 197.70 108.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 203.70 117.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 247.60 108.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 253.60 117.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 297.50 108.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 303.50 117.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 347.40 108.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 353.40 117.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 397.30 108.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 403.30 117.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 447.20 108.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 453.20 117.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 497.10 108.20 49.90 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 503.10 117.20 Tm (...) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 90.20 Tm (Suggested schema_audit value meanings:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 72.00 Tm (- market: market name, such as Australia.) Tj ET
+q 0.880 0.900 0.940 RG 0.50 w 48.00 38.00 m 547.00 38.00 l S Q
+BT /F1 7.00 Tf 0.390 0.450 0.550 rg 1 0 0 1 48.00 24.00 Tm (SIT742 2026T2 Assignment 1 | Page 12) Tj ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 28 0 R >>
+endobj
+30 0 obj
+<< /Length 6774 >>
+stream
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 778.00 Tm (- rows: number of rows in the loaded file.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 763.80 Tm (- columns: number of columns in the loaded file.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 749.60 Tm (- date_min: earliest parsed or parseable date/month.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 735.40 Tm (- date_max: latest parsed or parseable date/month.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 721.20 Tm (- date_ordered: boolean value indicating whether dates are already in chronological order.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 707.00 Tm (- missing_cells: total number of missing cells in the file, or a clearly documented equivalent missingness) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 694.80 Tm (summary.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 680.60 Tm (- arrival_numeric: boolean value indicating whether the arrival column is numeric or safely convertible to) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 668.40 Tm (numeric.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 654.20 Tm (- n_numeric_columns: number of columns that are numeric or safely convertible to numeric after excluding) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 642.00 Tm (date-like columns.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 627.80 Tm (- column_issues: short text note, such as none, spaces in labels, duplicate-looking labels, or another) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 615.60 Tm (concise description.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 597.40 Tm (Required object\(s\):) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 579.20 Tm (- raw_market_data) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 565.00 Tm (- schema_audit) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 538.80 Tm (Question 8: Cleaning and reproducible analysis tables [10 marks]) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 512.80 Tm (Your task:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 494.60 Tm (Clean the loaded data and create reproducible analysis tables for the required markets.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 476.40 Tm (Your notebook should explain the key cleaning decisions you made, especially any column-name changes, date) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 464.20 Tm (parsing decisions, and numeric conversion decisions.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 446.00 Tm (You may reuse your Part I functions where appropriate. In particular, Question 1 can support column-label) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 433.80 Tm (normalisation, Question 2 can support monthly date-range validation, and Question 3 can support construction) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 421.60 Tm (of the tidy arrival table. Equivalent correct implementations are also acceptable.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 403.40 Tm (Required outputs:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 385.20 Tm (- cleaned market-level data that retain the arrival column and original SII-related numeric columns needed) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 373.00 Tm (for later feature engineering;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 358.80 Tm (- documented original-to-cleaned label mapping;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 344.60 Tm (- parsed and sorted dates;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 330.40 Tm (- verification of complete monthly coverage from 2012-01 to 2018-12;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 316.20 Tm (- numeric conversion where appropriate;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 302.00 Tm (- tidy arrival table with at least date, market, and arrival;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 287.80 Tm (- reproducible cleaning code that can be followed from the submitted notebook.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 269.60 Tm (Example tidy_arrivals structure, not complete results. Your submitted table should include all required) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 257.40 Tm (market-month rows:) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 48.00 212.20 119.76 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 54.00 221.20 Tm (date) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 167.76 212.20 89.82 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 173.76 221.20 Tm (market) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 257.58 212.20 289.42 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 263.58 221.20 Tm (arrival) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 190.20 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 199.20 Tm (2012-01-01) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 167.76 190.20 89.82 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 199.20 Tm (Australia) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 257.58 190.20 289.42 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 263.58 199.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 168.20 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 177.20 Tm (2012-02-01) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 167.76 168.20 89.82 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 177.20 Tm (Australia) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 257.58 168.20 289.42 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 263.58 177.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 146.20 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 155.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 167.76 146.20 89.82 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 173.76 155.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 257.58 146.20 289.42 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 263.58 155.20 Tm (...) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 128.20 Tm (Required object\(s\):) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 110.00 Tm (- clean_market_data) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 95.80 Tm (- tidy_arrivals) Tj ET
+q 0.880 0.900 0.940 RG 0.50 w 48.00 38.00 m 547.00 38.00 l S Q
+BT /F1 7.00 Tf 0.390 0.450 0.550 rg 1 0 0 1 48.00 24.00 Tm (SIT742 2026T2 Assignment 1 | Page 13) Tj ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 30 0 R >>
+endobj
+32 0 obj
+<< /Length 8755 >>
+stream
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 770.00 Tm (Question 9: Exploratory data analysis and cross-market comparison [15 marks]) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 744.00 Tm (Your task:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 725.80 Tm (Compare the three required markets using exploratory data analysis.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 707.60 Tm (Your notebook should include a short written comparison, supported by your tables and figures, explaining) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 695.40 Tm (how the three markets differ in volume, growth, volatility, and seasonality.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 677.20 Tm (Use the EDA and visualisation expectations above when preparing your figures, tables, and written) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 665.00 Tm (comparison.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 646.80 Tm (Required outputs:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 628.60 Tm (- at least one time-series comparison figure;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 614.40 Tm (- clearly labelled figures and tables;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 600.20 Tm (- yearly arrival summary;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 586.00 Tm (- first-to-last change comparison;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 571.80 Tm (- volatility comparison;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 557.60 Tm (- seasonal or month-level summary;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 543.40 Tm (- short evidence-based comparison of similarities and differences in volume, growth, volatility,) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 531.20 Tm (seasonality, and search-intensity patterns.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 513.00 Tm (As a guide, write 1-2 short paragraphs interpreting the comparison, supported by your tables and figures.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 494.80 Tm (Written answers should refer to specific tables, figures, or computed features from your notebook. Generic) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 482.60 Tm (discussion that is not grounded in your generated evidence will receive limited credit.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 464.40 Tm (Example annual_summary structure, not complete results. Your submitted table should cover relevant years for) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 452.20 Tm (all required markets:) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 48.00 407.00 99.80 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 54.00 416.00 Tm (market) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 147.80 407.00 39.92 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 153.80 416.00 Tm (year) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 187.72 407.00 119.76 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 193.72 416.00 Tm (annual_total_arrival) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 307.48 407.00 119.76 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 313.48 416.00 Tm (annual_mean_arrival) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 427.24 407.00 119.76 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 433.24 416.00 Tm (annual_sd_arrival) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 385.00 99.80 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 394.00 Tm (Australia) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 147.80 385.00 39.92 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 153.80 394.00 Tm (2012) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 187.72 385.00 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 193.72 394.00 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 307.48 385.00 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 313.48 394.00 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 427.24 385.00 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 433.24 394.00 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 363.00 99.80 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 372.00 Tm (United States) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 147.80 363.00 39.92 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 153.80 372.00 Tm (2012) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 187.72 363.00 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 193.72 372.00 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 307.48 363.00 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 313.48 372.00 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 427.24 363.00 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 433.24 372.00 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 341.00 99.80 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 350.00 Tm (Thailand) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 147.80 341.00 39.92 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 153.80 350.00 Tm (2012) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 187.72 341.00 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 193.72 350.00 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 307.48 341.00 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 313.48 350.00 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 427.24 341.00 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 433.24 350.00 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 319.00 99.80 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 328.00 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 147.80 319.00 39.92 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 153.80 328.00 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 187.72 319.00 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 193.72 328.00 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 307.48 319.00 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 313.48 328.00 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 427.24 319.00 119.76 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 433.24 328.00 Tm (...) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 301.00 Tm (Required object\(s\):) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 282.80 Tm (- annual_summary) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 256.60 Tm (Question 10: Feature engineering and SII analysis [15 marks]) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 230.60 Tm (Your task:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 212.40 Tm (Create interpretable arrival features and analyse Search Intensity Index signals.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 194.20 Tm (Your notebook should include a short written explanation of why the selected SII features were chosen and) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 182.00 Tm (what their relationships with arrivals do and do not imply.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 163.80 Tm (As a guide, write 1-2 short paragraphs explaining why the SII features were selected and what the observed) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 151.60 Tm (relationships do and do not imply.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 133.40 Tm (Search Intensity Index features should be identified from the original cleaned CSV columns before adding) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 121.20 Tm (your own arrival-derived features. Exclude date, market, arrival, and any derived columns created by you.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 103.00 Tm (The selected SII feature names must be traceable to columns in your cleaned data. Do not submit placeholder) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 90.80 Tm (names such as <cleaned_sii_column_1> or sii_feature_name_1; your selected feature names must match columns) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 78.60 Tm (in your cleaned original data.) Tj ET
+q 0.880 0.900 0.940 RG 0.50 w 48.00 38.00 m 547.00 38.00 l S Q
+BT /F1 7.00 Tf 0.390 0.450 0.550 rg 1 0 0 1 48.00 24.00 Tm (SIT742 2026T2 Assignment 1 | Page 14) Tj ET
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 32 0 R >>
+endobj
+34 0 obj
+<< /Length 12692 >>
+stream
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 778.00 Tm (Students may use correlation or co-movement to help select SII features, but high correlation or co-movement) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 765.80 Tm (may reflect shared trends, seasonality, scale effects, or confounding. Do not present correlation as causal) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 753.60 Tm (evidence.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 735.40 Tm (If you use a figure to compare SII-arrival relationships, it should be clearly labelled and interpreted. A) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 723.20 Tm (table-only comparison is acceptable if it clearly supports the written analysis.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 705.00 Tm (You may reuse your Part I functions where appropriate. In particular, Question 4 can support numeric-column) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 692.80 Tm (inspection and SII feature identification, Question 5 can support rolling-mean features, and Question 6 can) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 680.60 Tm (support local peak/valley indicators. Equivalent correct implementations are also acceptable.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 662.40 Tm (Written answers should refer to specific tables, figures, or computed features from your notebook. Generic) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 650.20 Tm (discussion that is not grounded in your generated evidence will receive limited credit.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 632.00 Tm (Required outputs:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 613.80 Tm (- feature table containing the required derived fields;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 599.60 Tm (- selected_sii_features as a list containing at least three selected original SII feature names;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 585.40 Tm (- a transparent feature-selection rule;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 571.20 Tm (- sii_summary with, for each selected feature and market, interpretable feature summaries and one) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 559.00 Tm (relationship or co-movement measure with arrivals, such as correlation or another clearly explained measure;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 544.80 Tm (- at least one comparison of an SII-arrival relationship across markets;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 530.60 Tm (- explanation that correlation or co-movement is not causal evidence;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 516.40 Tm (- clearly labelled feature and SII summary tables or figures where used.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 498.20 Tm (Required object\(s\):) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 480.00 Tm (- feature_table) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 465.80 Tm (- selected_sii_features) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 451.60 Tm (- sii_summary) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 433.40 Tm (Required derived fields:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 415.20 Tm (- year;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 401.00 Tm (- month;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 386.80 Tm (- arrival_diff;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 372.60 Tm (- arrival_pct_change;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 358.40 Tm (- arrival_roll3_mean;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 344.20 Tm (- arrival_roll12_mean;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 330.00 Tm (- arrival_volatility_3;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 315.80 Tm (- is_local_peak;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 301.60 Tm (- is_local_valley.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 283.40 Tm (Use the derived-field definitions above. In particular, rolling features, volatility, and local peak/valley) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 271.20 Tm (indicators must be computed within each market.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 253.00 Tm (Example feature_table structure, not complete results. Values shown as ... must be computed from the) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 240.80 Tm (dataset:) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 48.00 195.60 41.58 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 54.00 204.60 Tm (date) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 89.58 195.60 41.58 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 95.58 204.60 Tm (market) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 131.17 195.60 41.58 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 137.17 204.60 Tm (arrival) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 172.75 195.60 41.58 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 178.75 204.60 Tm (year) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 214.33 195.60 41.58 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 220.33 204.60 Tm (month) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 255.92 195.60 41.58 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 261.92 204.60 Tm (arrival_diff) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 297.50 195.60 41.58 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 303.50 204.60 Tm (arrival_pct_change) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 339.08 195.60 41.58 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 345.08 204.60 Tm (arrival_roll3_mean) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 380.67 195.60 41.58 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 386.67 204.60 Tm (arrival_roll12_mean) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 422.25 195.60 41.58 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 428.25 204.60 Tm (arrival_volatility_3) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 463.83 195.60 41.58 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 469.83 204.60 Tm (is_local_peak) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 505.42 195.60 41.58 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 511.42 204.60 Tm (is_local_valley) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 173.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 182.60 Tm (2012-01-01) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 89.58 173.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 95.58 182.60 Tm (Australia) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 131.17 173.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 137.17 182.60 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 172.75 173.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 178.75 182.60 Tm (2012) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 214.33 173.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 220.33 182.60 Tm (1) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 255.92 173.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 261.92 182.60 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 297.50 173.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 303.50 182.60 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 339.08 173.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 345.08 182.60 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 380.67 173.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 386.67 182.60 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 422.25 173.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 428.25 182.60 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 463.83 173.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 469.83 182.60 Tm (False) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 505.42 173.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 511.42 182.60 Tm (False) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 151.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 160.60 Tm (2012-02-01) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 89.58 151.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 95.58 160.60 Tm (Australia) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 131.17 151.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 137.17 160.60 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 172.75 151.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 178.75 160.60 Tm (2012) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 214.33 151.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 220.33 160.60 Tm (2) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 255.92 151.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 261.92 160.60 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 297.50 151.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 303.50 160.60 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 339.08 151.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 345.08 160.60 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 380.67 151.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 386.67 160.60 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 422.25 151.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 428.25 160.60 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 463.83 151.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 469.83 160.60 Tm (False) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 505.42 151.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 511.42 160.60 Tm (False) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 129.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 138.60 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 89.58 129.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 95.58 138.60 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 131.17 129.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 137.17 138.60 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 172.75 129.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 178.75 138.60 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 214.33 129.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 220.33 138.60 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 255.92 129.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 261.92 138.60 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 297.50 129.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 303.50 138.60 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 339.08 129.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 345.08 138.60 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 380.67 129.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 386.67 138.60 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 422.25 129.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 428.25 138.60 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 463.83 129.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 469.83 138.60 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 505.42 129.60 41.58 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 511.42 138.60 Tm (...) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 111.60 Tm (Example selected_sii_features structure. The feature names shown are structure-only placeholders, not actual) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 99.40 Tm (required SII feature names:) Tj ET
+q 0.880 0.900 0.940 RG 0.50 w 48.00 38.00 m 547.00 38.00 l S Q
+BT /F1 7.00 Tf 0.390 0.450 0.550 rg 1 0 0 1 48.00 24.00 Tm (SIT742 2026T2 Assignment 1 | Page 15) Tj ET
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 34 0 R >>
+endobj
+36 0 obj
+<< /Length 10430 >>
+stream
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 742.00 499.00 36.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 763.00 Tm (# Example structure only. Replace these with real column names from your cleaned data.) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 753.00 Tm (selected_sii_features = ["<cleaned_sii_column_1>", "<cleaned_sii_column_2>", "<cleaned_sii_column_3>"]) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 730.00 Tm (Do not submit placeholder names such as <cleaned_sii_column_1> or sii_feature_name_1; your selected feature) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 717.80 Tm (names must match columns in your cleaned original data.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 699.60 Tm (Example sii_summary structure, not complete results. The feature names shown are structure-only) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 687.40 Tm (placeholders, not actual required SII feature names:) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 48.00 642.20 71.29 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 54.00 651.20 Tm (market) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 119.29 642.20 71.29 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 125.29 651.20 Tm (feature) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 190.57 642.20 71.29 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 196.57 651.20 Tm (feature_mean) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 261.86 642.20 71.29 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 267.86 651.20 Tm (feature_sd) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 333.14 642.20 71.29 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 339.14 651.20 Tm (relationship_measure) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 404.43 642.20 71.29 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 410.43 651.20 Tm (relationship_value) Tj ET
+q 0.910 0.945 0.984 rg 0.839 0.878 0.918 RG 0.45 w 475.71 642.20 71.29 22.00 re B Q
+BT /F2 8.00 Tf 0.122 0.306 0.475 rg 1 0 0 1 481.71 651.20 Tm (interpretation_note) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 620.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 629.20 Tm (Australia) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 119.29 620.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 125.29 629.20 Tm (<cleaned_sii_column_1>) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 190.57 620.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 196.57 629.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 261.86 620.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 267.86 629.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 333.14 620.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 339.14 629.20 Tm (correlation) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 404.43 620.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 410.43 629.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 475.71 620.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 481.71 629.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 598.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 607.20 Tm (United States) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 119.29 598.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 125.29 607.20 Tm (<cleaned_sii_column_1>) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 190.57 598.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 196.57 607.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 261.86 598.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 267.86 607.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 333.14 598.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 339.14 607.20 Tm (correlation) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 404.43 598.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 410.43 607.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 475.71 598.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 481.71 607.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 48.00 576.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 585.20 Tm (Thailand) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 119.29 576.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 125.29 585.20 Tm (<cleaned_sii_column_1>) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 190.57 576.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 196.57 585.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 261.86 576.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 267.86 585.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 333.14 576.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 339.14 585.20 Tm (correlation) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 404.43 576.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 410.43 585.20 Tm (...) Tj ET
+q 1.000 1.000 1.000 rg 0.839 0.878 0.918 RG 0.45 w 475.71 576.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 481.71 585.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 48.00 554.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 54.00 563.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 119.29 554.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 125.29 563.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 190.57 554.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 196.57 563.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 261.86 554.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 267.86 563.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 333.14 554.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 339.14 563.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 404.43 554.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 410.43 563.20 Tm (...) Tj ET
+q 0.973 0.980 0.988 rg 0.839 0.878 0.918 RG 0.45 w 475.71 554.20 71.29 22.00 re B Q
+BT /F1 7.70 Tf 0.120 0.160 0.220 rg 1 0 0 1 481.71 563.20 Tm (...) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 528.20 Tm (Question 11: Critical interpretation, limitations, and project-planning insight [10) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 511.20 Tm (marks]) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 489.20 Tm (Your task:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 471.00 Tm (Write a short evidence-based analysis in your notebook and exported PDF. This question is primarily assessed) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 458.80 Tm (through your written interpretation, not through additional code.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 440.60 Tm (As a guide, write approximately 300-500 words, or 3-5 concise paragraphs, supported by your tables and) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 428.40 Tm (figures.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 410.20 Tm (Written answers should refer to specific tables, figures, or computed features from your notebook. Generic) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 398.00 Tm (discussion that is not grounded in your generated evidence will receive limited credit.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 379.80 Tm (Required written answer:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 361.60 Tm (- main findings about the three required markets;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 347.40 Tm (- what the Search Intensity Index signals can support;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 333.20 Tm (- what the Search Intensity Index signals cannot support;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 319.00 Tm (- limitations of the data and analysis;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 304.80 Tm (- what a later modelling or forecasting project would need to handle;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 290.60 Tm (- clear links to the relevant tables and figures in your notebook and exported PDF.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 272.40 Tm (Formal forecasting is outside Assignment 1. Do not replace the required descriptive analysis with a) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 260.20 Tm (forecasting model.) Tj ET
+BT /F2 13.60 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 228.00 Tm (Part III: Transfer and Reflection) Tj ET
+q 0.839 0.878 0.918 RG 0.50 w 48.00 213.00 m 547.00 213.00 l S Q
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 197.00 Tm (Part III is worth 10 marks. Complete Question 12 as a discussion/reflection task.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 178.80 Tm (You are not required to download, clean, transform, model, or fully analyse the ISF-TDF2023 dataset for) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 166.60 Tm (Assignment 1.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 148.40 Tm (Reference dataset:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 130.20 Tm (https://github.com/tulip-lab/open-data/blob/main/ISF-TDF2023/README.md) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 112.00 Tm (At the time of preparing this assignment, the ISF-TDF2023 README describes a monthly Chinese outbound) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 99.80 Tm (tourism-demand dataset with multiple destination series and documented historical, validation, and) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 87.60 Tm (evaluation periods. Base your discussion on the README available when you complete the assignment.) Tj ET
+q 0.880 0.900 0.940 RG 0.50 w 48.00 38.00 m 547.00 38.00 l S Q
+BT /F1 7.00 Tf 0.390 0.450 0.550 rg 1 0 0 1 48.00 24.00 Tm (SIT742 2026T2 Assignment 1 | Page 16) Tj ET
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 36 0 R >>
+endobj
+38 0 obj
+<< /Length 5107 >>
+stream
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 770.00 Tm (Question 12: Transfer and reflection [10 marks]) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 744.00 Tm (Your task:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 725.80 Tm (Write a short reflection explaining how the functions, objects, and workflow you developed in Part I and) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 713.60 Tm (Part II could be transferred or adapted to the ISF-TDF2023 dataset.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 695.40 Tm (This is a reflection task only. Do not add a full ISF-TDF2023 data-loading, cleaning, analysis, modelling,) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 683.20 Tm (or forecasting workflow to your notebook.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 665.00 Tm (As a guide, write approximately 250-400 words, or 2-4 concise paragraphs.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 646.80 Tm (Required written answer:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 628.60 Tm (- identify which Part I functions could transfer directly and which would need adaptation;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 614.40 Tm (- explain which Part II objects or workflow stages have a useful equivalent for a multi-destination monthly) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 602.20 Tm (tourism-demand dataset;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 588.00 Tm (- discuss at least two dataset differences that would affect transfer, such as the number of destination) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 575.80 Tm (series, different date coverage, historical/validation/evaluation periods, missing values, or) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 563.60 Tm (forecasting-evaluation context;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 549.40 Tm (- explain how you would check the new dataset before reusing your A1 workflow;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 535.20 Tm (- state one limitation or risk of transferring a workflow from HK2012-2018 to ISF-TDF2023 without redesign.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 517.00 Tm (Your answer should refer to the public ISF-TDF2023 README at a high level. It should not include computed) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 504.80 Tm (results from the ISF-TDF2023 CSV file.) Tj ET
+BT /F2 13.60 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 472.60 Tm (Back matter) Tj ET
+q 0.839 0.878 0.918 RG 0.50 w 48.00 457.60 m 547.00 457.60 l S Q
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 433.60 Tm (Submission requirements) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 407.60 Tm (Submit the following files in CloudDeakin via Assignments located under Assessment:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 389.40 Tm (- SIT742-2026T2-A1-<StudentID>.ipynb) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 375.20 Tm (- SIT742-2026T2-A1-<StudentID>.pdf) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 357.00 Tm (The PDF must be exported from your completed notebook and must include code outputs, figures, tables, and) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 344.80 Tm (written explanations. You are not required to prepare a separate full report.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 326.60 Tm (Students aiming for High Distinction are encouraged to submit a short video as supporting evidence. Submit) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 314.40 Tm (the video together with the notebook and exported PDF if you choose to include it or if the teaching team) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 302.20 Tm (requests it for verification.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 284.00 Tm (For general help with CloudDeakin assignment submission, refer to:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 269.80 Tm (https://www.deakin.edu.au/students/help/about-clouddeakin/assessment/assignments) Tj ET
+BT /F2 9.80 Tf 0.230 0.300 0.400 rg 1 0 0 1 48.00 246.60 Tm (File naming convention) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 223.60 Tm (Replace <StudentID> with your Deakin student ID.) Tj ET
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 169.40 499.00 36.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 190.40 Tm (SIT742-2026T2-A1-<StudentID>.ipynb) Tj ET
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 180.40 Tm (SIT742-2026T2-A1-<StudentID>.pdf) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 157.40 Tm (If a video is submitted or requested, use:) Tj ET
+q 0.973 0.980 0.988 rg 0.796 0.835 0.882 RG 0.80 w 48.00 113.20 499.00 26.00 re B Q
+BT /F3 7.60 Tf 0.150 0.180 0.220 rg 1 0 0 1 58.00 124.20 Tm (SIT742-2026T2-A1-<StudentID>-video.<ext>) Tj ET
+q 0.880 0.900 0.940 RG 0.50 w 48.00 38.00 m 547.00 38.00 l S Q
+BT /F1 7.00 Tf 0.390 0.450 0.550 rg 1 0 0 1 48.00 24.00 Tm (SIT742 2026T2 Assignment 1 | Page 17) Tj ET
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 38 0 R >>
+endobj
+40 0 obj
+<< /Length 5818 >>
+stream
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 770.00 Tm (Video evidence) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 744.00 Tm (Students aiming for High Distinction are encouraged to submit a short video as supporting evidence. The) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 731.80 Tm (video can help demonstrate your code understanding, reproducibility, and ability to explain the main) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 719.60 Tm (analytical decisions in your own words.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 701.40 Tm (The video is not a separate scored component and is not a substitute for the completed notebook and exported) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 689.20 Tm (PDF. Not submitting a video does not automatically reduce your mark. However, if the teaching team requests) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 677.00 Tm (video evidence for authorship, reproducibility, or code-understanding verification and the requested) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 664.80 Tm (evidence is not provided, this may affect the relevant verification process.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 646.60 Tm (Recommended video requirements:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 628.40 Tm (- length: 3-5 minutes;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 614.20 Tm (- file size: 20 MB or less where possible;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 600.00 Tm (- compression: use H.265/HEVC or another efficient compression format where possible;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 585.80 Tm (- format: screen recording with voice and face camera visible;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 571.60 Tm (- submit the video file together with the notebook and exported PDF;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 557.40 Tm (- filename: SIT742-2026T2-A1-<StudentID>-video.<ext>.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 539.20 Tm (If you have a technical, accessibility, or approved privacy-related reason that prevents this format, follow) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 527.00 Tm (the unit-site instructions or contact the teaching team before submission.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 508.80 Tm (Your video should briefly cover:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 490.60 Tm (- the structure of your notebook;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 476.40 Tm (- evidence that your notebook can run;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 462.20 Tm (- explanation of one or two Part I functions;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 448.00 Tm (- explanation of the main Part II data workflow;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 433.80 Tm (- one or two key findings;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 419.60 Tm (- one limitation of your analysis;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 405.40 Tm (- if relevant, how GenAI was used and how you checked, revised, and understood the final work.) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 379.20 Tm (Reproducibility requirements) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 353.20 Tm (Before submission, confirm that:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 335.00 Tm (- the notebook runs from top to bottom in a clean runtime;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 320.80 Tm (- the approved raw URL base is used;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 306.60 Tm (- data-loading code does not depend on local absolute paths;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 292.40 Tm (- all required output objects are created;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 278.20 Tm (- figures and tables are generated by the submitted notebook;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 264.00 Tm (- the Part III reflection is included;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 249.80 Tm (- package imports are clear and necessary;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 235.60 Tm (- the dataset source is acknowledged;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 221.40 Tm (- the exported PDF reflects the completed notebook.) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 195.20 Tm (Academic integrity and GenAI policy) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 169.20 Tm (You must complete this assignment in accordance with Deakin's academic integrity requirements and the) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 157.00 Tm (current SIT742 unit-site instructions.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 138.80 Tm (If you use generative AI tools in preparing your work, you are responsible for checking, revising,) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 126.60 Tm (understanding, and acknowledging that use according to the unit-site instructions and Deakin guidance.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 114.40 Tm (Generative AI output must not replace your own understanding, analysis, or explanation.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 96.20 Tm (For current guidance, refer to:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 78.00 Tm (- Deakin academic integrity: https://www.deakin.edu.au/students/study-support/academic-integrity) Tj ET
+q 0.880 0.900 0.940 RG 0.50 w 48.00 38.00 m 547.00 38.00 l S Q
+BT /F1 7.00 Tf 0.390 0.450 0.550 rg 1 0 0 1 48.00 24.00 Tm (SIT742 2026T2 Assignment 1 | Page 18) Tj ET
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 40 0 R >>
+endobj
+42 0 obj
+<< /Length 3490 >>
+stream
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 778.00 Tm (- Using generative AI in your studies:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 765.80 Tm (https://www.deakin.edu.au/students/study-support/study-resources/artificial-intelligence) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 751.60 Tm (- The SIT742 unit site on CloudDeakin) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 725.40 Tm (Extensions, special consideration, and submission policy) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 699.40 Tm (For extensions, special consideration, late submission rules, and CloudDeakin submission support, follow the) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 687.20 Tm (current SIT742 unit-site instructions and official Deakin student-support pages.) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 669.00 Tm (For current guidance, refer to:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 650.80 Tm (- Assessments, extensions, due dates, and late penalties:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 638.60 Tm (https://www.deakin.edu.au/students/study-support/assessments-and-examinations/assessments) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 624.40 Tm (- CloudDeakin assignment submission help:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 612.20 Tm (https://www.deakin.edu.au/students/help/about-clouddeakin/assessment/assignments) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 598.00 Tm (- The SIT742 unit site on CloudDeakin) Tj ET
+BT /F2 11.20 Tf 0.137 0.255 0.373 rg 1 0 0 1 48.00 571.80 Tm (Submission checklist) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 545.80 Tm (Before submitting, check that:) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 527.60 Tm (- your completed notebook is included;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 513.40 Tm (- your exported PDF is included;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 499.20 Tm (- filenames follow the required pattern;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 485.00 Tm (- files are submitted in CloudDeakin via Assessment > Assignments;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 470.80 Tm (- the notebook runs from top to bottom;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 456.60 Tm (- the PDF contains code outputs, figures, tables, and explanations;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 442.40 Tm (- all required output objects are present;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 428.20 Tm (- the Part III reflection is included;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 414.00 Tm (- the three required market files are used;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 399.80 Tm (- optional extension markets, if used, are clearly identified as optional;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 385.60 Tm (- no local absolute paths, credentials, or private data are included;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 371.40 Tm (- the dataset source is cited;) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 1 0 0 1 48.00 357.20 Tm (- any video evidence follows the requirements above and any later unit-site instructions.) Tj ET
+q 0.880 0.900 0.940 RG 0.50 w 48.00 38.00 m 547.00 38.00 l S Q
+BT /F1 7.00 Tf 0.390 0.450 0.550 rg 1 0 0 1 48.00 24.00 Tm (SIT742 2026T2 Assignment 1 | Page 19) Tj ET
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 42 0 R >>
+endobj
+xref
+0 44
+0000000000 65535 f
+0000000009 00000 n
+0000000058 00000 n
+0000000241 00000 n
+0000000311 00000 n
+0000000386 00000 n
+0000000454 00000 n
+0000005616 00000 n
+0000005762 00000 n
+0000013737 00000 n
+0000013883 00000 n
+0000020131 00000 n
+0000020279 00000 n
+0000025454 00000 n
+0000025602 00000 n
+0000031554 00000 n
+0000031702 00000 n
+0000036787 00000 n
+0000036935 00000 n
+0000044080 00000 n
+0000044228 00000 n
+0000051365 00000 n
+0000051513 00000 n
+0000056018 00000 n
+0000056166 00000 n
+0000064055 00000 n
+0000064203 00000 n
+0000076010 00000 n
+0000076158 00000 n
+0000087614 00000 n
+0000087762 00000 n
+0000094589 00000 n
+0000094737 00000 n
+0000103545 00000 n
+0000103693 00000 n
+0000116439 00000 n
+0000116587 00000 n
+0000127071 00000 n
+0000127219 00000 n
+0000132379 00000 n
+0000132527 00000 n
+0000138398 00000 n
+0000138546 00000 n
+0000142089 00000 n
+trailer
+<< /Size 44 /Root 1 0 R >>
+startxref
+142237
+%%EOF
