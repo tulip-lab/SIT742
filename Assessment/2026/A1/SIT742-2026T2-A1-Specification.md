@@ -121,6 +121,8 @@ You must complete the provided starter notebook for this assignment. The starter
 
 Use this specification as the authoritative description of the assessment requirements. Use the starter notebook as the working file in which you complete your code, tables, figures, and written answers.
 
+For marking and feedback support, complete the `STUDENT_INFO` cell in the starter notebook and preserve the required question headings, function names, object names, and notebook structure.
+
 You may add code cells and markdown cells where needed, but you should preserve the question headings, required function names, required object names, and submission structure. Replace all `None` placeholders with completed objects. Leaving a required object as `None` does not satisfy the requirement.
 
 Your exported PDF must be generated from the completed notebook and should show your code outputs, figures, tables, and written explanations.
@@ -904,6 +906,7 @@ Before submitting, check that:
 - your completed notebook is included;
 - your exported PDF is included;
 - filenames follow the required pattern;
+- the `STUDENT_INFO` cell is completed and matches your filename;
 - files are submitted in CloudDeakin via Assessment > Assignments;
 - the notebook runs from top to bottom;
 - the PDF contains code outputs, figures, tables, and explanations;
