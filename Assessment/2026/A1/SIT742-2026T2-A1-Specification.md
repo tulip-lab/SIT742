@@ -121,9 +121,9 @@ You must complete the provided starter notebook for this assignment. The starter
 
 Use this specification as the authoritative description of the assessment requirements. Use the starter notebook as the working file in which you complete your code, tables, figures, and written answers.
 
-For marking and feedback support, complete the `STUDENT_INFO` cell in the starter notebook and preserve the required question headings, function names, object names, and notebook structure.
+For marking and feedback support, complete the `STUDENT_INFO` cell and preserve the required question headings, function names, object names, and written-answer markers in the starter notebook. You may add additional code or markdown cells where needed, but do not remove or rename the required scaffold elements.
 
-You may add code cells and markdown cells where needed, but you should preserve the question headings, required function names, required object names, and submission structure. Replace all `None` placeholders with completed objects. Leaving a required object as `None` does not satisfy the requirement.
+Replace all `None` placeholders with completed objects. Leaving a required object as `None` does not satisfy the requirement.
 
 Your exported PDF must be generated from the completed notebook and should show your code outputs, figures, tables, and written explanations.
 
@@ -504,58 +504,33 @@ Communication, reproducibility, notebook clarity, figure/table labelling, datase
 
 Part I functions are assessed independently. In Part II, you are encouraged to reuse them where appropriate, but equivalent correct and reproducible implementations are acceptable.
 
-### EDA and visualisation expectations
+### General Part II requirements
 
-Exploratory data analysis (EDA) in this assignment means using summary tables, simple derived measures, and clearly labelled visualisations to understand and compare the three required markets before making critical interpretations.
+These requirements apply across Questions 7 to 11:
 
-At minimum, your Part II analysis should include:
+- use the approved raw URL base for loading the required CSV files; do not use local absolute paths;
+- replace every `None` placeholder with your completed object before submission;
+- keep the required object names so markers can locate your outputs;
+- label figures with clear titles, axis labels, and legends where relevant;
+- present tables with clear captions or surrounding explanation;
+- ground written discussion in specific tables, figures, or computed features from your notebook.
 
-- one time-series comparison figure showing monthly arrivals for the three required markets;
-- one yearly or annual-summary table, such as `annual_summary`;
-- one comparison of growth or first-to-last change;
-- one comparison of volatility, seasonality, or month-level patterns;
-- clearly labelled figure titles, axis labels, legends, and table captions or surrounding explanations.
+The exact numerical values are not prescribed in this specification, but all computations must be reproducible from the submitted notebook. Output-shape examples below show structure only; they are not complete results and they are not fixed values. Replace `...` with values computed from the dataset.
 
-Visualisations should support your analysis rather than act as decoration. A figure should be referenced in the written discussion and should help explain a specific comparison, trend, pattern, or limitation.
+### Required analysis object index
 
-Suitable visualisations may include line charts for monthly trends, bar charts for annual or seasonal comparisons, and scatter plots or small multiples if used carefully for SII-arrival relationships. You are not required to create complex dashboards or interactive visualisations.
+The detailed requirements for each object appear in the question where the object is created.
 
-### Required analysis objects
-
-Required object names help organise your notebook and help markers locate outputs. Merely creating the object name does not guarantee marks: the object must contain the required structure and evidence for the relevant question. The placeholder value `None` must be replaced with your completed object.
-
-The exact numerical values are not prescribed in the specification, but the object structure must be clear and reproducible.
-
-The required object structures define minimum assessable evidence. Higher marks require correct computation, clear explanation, appropriate interpretation, and reproducible presentation.
-
-| Object | Type | Required structure | Created in |
-| --- | --- | --- | --- |
-| `raw_market_data` | dictionary | Required keys: `"Australia"`, `"United States"`, `"Thailand"`. Values: original DataFrames loaded from the required CSV files. DataFrame index is not prescribed. Each DataFrame must contain identifiable date and arrival columns before cleaning. | Question 7 |
-| `schema_audit` | pandas DataFrame | Required columns: `market`, `rows`, `columns`, `date_min`, `date_max`, `date_ordered`, `missing_cells`, `arrival_numeric`, `n_numeric_columns`, `column_issues`. Include one row for each required market. | Question 7 |
-| `clean_market_data` | dictionary | Same required keys as `raw_market_data`. Values: cleaned DataFrames with cleaned column labels; dates parsed or clearly parseable; numeric columns converted where appropriate. The cleaned DataFrames should retain the arrival column and original SII-related numeric columns needed for later analysis. DataFrame index is not prescribed. | Question 8 |
-| `tidy_arrivals` | pandas DataFrame | Required columns: `date`, `market`, `arrival`. `date` should preferably be pandas datetime/month-start timestamp; consistently formatted and parseable date strings are acceptable. Required markets: Australia, United States, Thailand. Expected row count: 252, based on 3 markets x 84 monthly rows, unless a clearly documented data issue is found. One row per market-month. | Question 8 |
-| `annual_summary` | pandas DataFrame | Required columns: `market`, `year`. `year` should be an integer year such as `2012`. Include at least one annual arrival summary column such as `annual_total_arrival` or `annual_mean_arrival`. Recommended additional columns: `annual_sd_arrival`, `first_month_arrival`, `last_month_arrival`. | Question 9 |
-| `feature_table` | pandas DataFrame | Required columns: `date`, `market`, `arrival`, `year`, `month`, `arrival_diff`, `arrival_pct_change`, `arrival_roll3_mean`, `arrival_roll12_mean`, `arrival_volatility_3`, `is_local_peak`, `is_local_valley`. | Question 10 |
-| `selected_sii_features` | list of strings | At least three selected original SII feature names from the cleaned original CSV columns. The names in `selected_sii_features` must match columns in the cleaned original data. Do not include `date`, `market`, `arrival`, or derived arrival features. | Question 10 |
-| `sii_summary` | pandas DataFrame | Required columns: `market`, `feature`, `feature_mean`, `feature_sd`, `relationship_measure`, `relationship_value`, `interpretation_note`. Include one or more rows for each selected SII feature and market. `interpretation_note` should briefly state what the relationship measure suggests and what it does not prove. | Question 10 |
-
-The 252-row expectation for `tidy_arrivals` is a structural expectation based on three required markets with 84 monthly rows each.
-
-### Required derived-field definitions
-
-Rolling features and local extrema must be computed within each market, not across the concatenated dataset.
-
-- `year`: calendar year extracted from `date`.
-- `month`: calendar month extracted from `date`, preferably as an integer from 1 to 12.
-- `arrival_diff`: month-to-month difference in `arrival` within each market.
-- `arrival_pct_change`: month-to-month percentage change in `arrival` within each market. The first month for each market may be `NaN` or `None`.
-- `arrival_roll3_mean`: trailing 3-month rolling mean of `arrival` within each market.
-- `arrival_roll12_mean`: trailing 12-month rolling mean of `arrival` within each market.
-- `arrival_volatility_3`: trailing 3-month rolling standard deviation of `arrival` within each market.
-- `is_local_peak`: boolean indicator showing whether the month is a strict local peak in `arrival` within the same market.
-- `is_local_valley`: boolean indicator showing whether the month is a strict local valley in `arrival` within the same market.
-
-**Note on output-shape examples:** The tables below show the required output structure only. They are not complete results and they are not fixed values. Your submitted tables must include all required rows for the three required markets. Replace `...` with values computed from the dataset.
+| Object | Type | Created in |
+| --- | --- | --- |
+| `raw_market_data` | dictionary | Question 7 |
+| `schema_audit` | pandas DataFrame | Question 7 |
+| `clean_market_data` | dictionary | Question 8 |
+| `tidy_arrivals` | pandas DataFrame | Question 8 |
+| `annual_summary` | pandas DataFrame | Question 9 |
+| `feature_table` | pandas DataFrame | Question 10 |
+| `selected_sii_features` | list of strings | Question 10 |
+| `sii_summary` | pandas DataFrame | Question 10 |
 
 ### Question 7: Data access and schema audit [10 marks]
 
@@ -568,6 +543,7 @@ Your notebook should include both code and a short written explanation of what y
 Required outputs:
 
 - a short explanation of how the files were loaded;
+- `raw_market_data`, a dictionary with required keys `"Australia"`, `"United States"`, and `"Thailand"`;
 - a `schema_audit` table for Australia, the United States, and Thailand;
 - row and column counts for each file;
 - date range for each file;
@@ -577,6 +553,13 @@ Required outputs:
 - important column-name issues that may affect analysis;
 - clear dataset-source acknowledgement;
 - loading code that uses the approved raw URL base and does not rely on local absolute paths.
+
+Required `raw_market_data` structure:
+
+- keys must be exactly the three required markets: `"Australia"`, `"United States"`, and `"Thailand"`;
+- values must be the original DataFrames loaded from the required CSV files before cleaning;
+- DataFrame index is not prescribed;
+- each DataFrame must contain identifiable date and arrival columns before cleaning.
 
 Example schema-audit table structure, not complete results:
 
@@ -616,13 +599,30 @@ You may reuse your Part I functions where appropriate. In particular, Question 1
 
 Required outputs:
 
-- cleaned market-level data that retain the arrival column and original SII-related numeric columns needed for later feature engineering;
+- `clean_market_data`, a dictionary of cleaned market-level DataFrames;
+- `tidy_arrivals`, a tidy table with one row per market-month;
 - documented original-to-cleaned label mapping;
 - parsed and sorted dates;
 - verification of complete monthly coverage from 2012-01 to 2018-12;
 - numeric conversion where appropriate;
-- tidy arrival table with at least `date`, `market`, and `arrival`;
 - reproducible cleaning code that can be followed from the submitted notebook.
+
+Required `clean_market_data` structure:
+
+- same required keys as `raw_market_data`: `"Australia"`, `"United States"`, and `"Thailand"`;
+- values must be cleaned DataFrames with cleaned column labels;
+- dates must be parsed or clearly parseable;
+- numeric columns must be converted where appropriate;
+- cleaned DataFrames must retain the arrival column and original SII-related numeric columns needed for later analysis;
+- DataFrame index is not prescribed.
+
+Required `tidy_arrivals` structure:
+
+- pandas DataFrame with required columns `date`, `market`, and `arrival`;
+- required markets: Australia, United States, and Thailand;
+- one row per market-month;
+- expected row count: 252, based on 3 markets x 84 monthly rows, unless a clearly documented data issue is found;
+- `date` should preferably be a pandas datetime/month-start timestamp; consistently formatted and parseable date strings are acceptable.
 
 Example `tidy_arrivals` structure, not complete results. Your submitted table should include all required market-month rows:
 
@@ -645,7 +645,19 @@ Compare the three required markets using exploratory data analysis.
 
 Your notebook should include a short written comparison, supported by your tables and figures, explaining how the three markets differ in volume, growth, volatility, and seasonality.
 
-Use the EDA and visualisation expectations above when preparing your figures, tables, and written comparison.
+Exploratory data analysis (EDA) in this assignment means using summary tables, simple derived measures, and clearly labelled visualisations to understand and compare the three required markets before making critical interpretations.
+
+At minimum, your Question 9 analysis should include:
+
+- one time-series comparison figure showing monthly arrivals for the three required markets;
+- one yearly or annual-summary table, such as `annual_summary`;
+- one comparison of growth or first-to-last change;
+- one comparison of volatility, seasonality, or month-level patterns;
+- clearly labelled figure titles, axis labels, legends, and table captions or surrounding explanations.
+
+Visualisations should support your analysis rather than act as decoration. A figure should be referenced in the written discussion and should help explain a specific comparison, trend, pattern, or limitation.
+
+Suitable visualisations may include line charts for monthly trends, bar charts for annual or seasonal comparisons, and scatter plots or small multiples if used carefully for SII-arrival relationships. You are not required to create complex dashboards or interactive visualisations.
 
 Required outputs:
 
@@ -659,7 +671,12 @@ Required outputs:
 
 As a guide, write 1-2 short paragraphs interpreting the comparison, supported by your tables and figures.
 
-Written answers should refer to specific tables, figures, or computed features from your notebook. Generic discussion that is not grounded in your generated evidence will receive limited credit.
+Required `annual_summary` structure:
+
+- pandas DataFrame with required columns `market` and `year`;
+- `year` should be an integer year such as `2012`;
+- include at least one annual arrival summary column such as `annual_total_arrival` or `annual_mean_arrival`;
+- recommended additional columns include `annual_sd_arrival`, `first_month_arrival`, and `last_month_arrival`.
 
 Example `annual_summary` structure, not complete results. Your submitted table should cover relevant years for all required markets:
 
@@ -694,8 +711,6 @@ If you use a figure to compare SII-arrival relationships, it should be clearly l
 
 You may reuse your Part I functions where appropriate. In particular, Question 4 can support numeric-column inspection and SII feature identification, Question 5 can support rolling-mean features, and Question 6 can support local peak/valley indicators. Equivalent correct implementations are also acceptable.
 
-Written answers should refer to specific tables, figures, or computed features from your notebook. Generic discussion that is not grounded in your generated evidence will receive limited credit.
-
 Required outputs:
 
 - feature table containing the required derived fields;
@@ -712,19 +727,34 @@ Required object(s):
 - `selected_sii_features`
 - `sii_summary`
 
-Required derived fields:
+Required `feature_table` structure:
 
-- `year`;
-- `month`;
-- `arrival_diff`;
-- `arrival_pct_change`;
-- `arrival_roll3_mean`;
-- `arrival_roll12_mean`;
-- `arrival_volatility_3`;
-- `is_local_peak`;
-- `is_local_valley`.
+- pandas DataFrame with required columns `date`, `market`, `arrival`, `year`, `month`, `arrival_diff`, `arrival_pct_change`, `arrival_roll3_mean`, `arrival_roll12_mean`, `arrival_volatility_3`, `is_local_peak`, and `is_local_valley`;
+- rolling features and local extrema must be computed within each market, not across the concatenated dataset.
 
-Use the derived-field definitions above. In particular, rolling features, volatility, and local peak/valley indicators must be computed within each market.
+Required derived-field definitions:
+
+- `year`: calendar year extracted from `date`.
+- `month`: calendar month extracted from `date`, preferably as an integer from 1 to 12.
+- `arrival_diff`: month-to-month difference in `arrival` within each market.
+- `arrival_pct_change`: month-to-month percentage change in `arrival` within each market. The first month for each market may be `NaN` or `None`.
+- `arrival_roll3_mean`: trailing 3-month rolling mean of `arrival` within each market.
+- `arrival_roll12_mean`: trailing 12-month rolling mean of `arrival` within each market.
+- `arrival_volatility_3`: trailing 3-month rolling standard deviation of `arrival` within each market.
+- `is_local_peak`: boolean indicator showing whether the month is a strict local peak in `arrival` within the same market.
+- `is_local_valley`: boolean indicator showing whether the month is a strict local valley in `arrival` within the same market.
+
+Required `selected_sii_features` structure:
+
+- list of at least three selected original SII feature names from the cleaned original CSV columns;
+- names must match columns in the cleaned original data;
+- do not include `date`, `market`, `arrival`, or derived arrival features.
+
+Required `sii_summary` structure:
+
+- pandas DataFrame with required columns `market`, `feature`, `feature_mean`, `feature_sd`, `relationship_measure`, `relationship_value`, and `interpretation_note`;
+- include one or more rows for each selected SII feature and market;
+- `interpretation_note` should briefly state what the relationship measure suggests and what it does not prove.
 
 Example `feature_table` structure, not complete results. Values shown as `...` must be computed from the dataset:
 
@@ -759,8 +789,6 @@ Your task:
 Write a short evidence-based analysis in your notebook and exported PDF. This question is primarily assessed through your written interpretation, not through additional code.
 
 As a guide, write approximately 300-500 words, or 3-5 concise paragraphs, supported by your tables and figures.
-
-Written answers should refer to specific tables, figures, or computed features from your notebook. Generic discussion that is not grounded in your generated evidence will receive limited credit.
 
 Required written answer:
 
@@ -907,6 +935,7 @@ Before submitting, check that:
 - your exported PDF is included;
 - filenames follow the required pattern;
 - the `STUDENT_INFO` cell is completed and matches your filename;
+- required question headings, function names, object names, and written-answer markers have been preserved;
 - files are submitted in CloudDeakin via Assessment > Assignments;
 - the notebook runs from top to bottom;
 - the PDF contains code outputs, figures, tables, and explanations;
