@@ -1,7 +1,5 @@
 # SIT742 2026T2 Assignment 2 Forecast Measures Guide
 
-Release level: student-facing
-
 This guide explains the two required forecast-performance measures for Assignment 2: MASE and MAPE. It also explains MAE because destination-level MAE is the forecast-error numerator used to calculate MASE. Use this guide as the practical reference for measure definitions, required table inputs, worked examples, missing-value handling, zero-actual handling, and validation-measure calculations in your notebook.
 
 This guide accompanies the [A2 Specification](SIT742-2026T2-A2-Specification.md). For Q1-Q3 function input/output examples, use the [A2 Function Examples Guide](SIT742-2026T2-A2-Function-Examples.md).

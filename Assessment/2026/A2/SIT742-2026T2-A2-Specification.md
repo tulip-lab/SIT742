@@ -1,6 +1,9 @@
 # SIT742 2026T2 Assignment 2 Specification: Group Forecasting Project
 
-Release level: student-facing public draft
+<div style="border: 2px solid #b91c1c; padding: 0.9rem 1rem; border-radius: 6px; background: #fef2f2;">
+<strong>Required autograding markers</strong>
+<p>The starter notebook contains START/END comments such as <code>&lt;!-- A2:ANSWER:Q1:START --&gt;</code>. Do not delete, rename, edit, move, or reorder any <code>A2:ANSWER</code> marker. Write each response between the matching START and END markers for that question. Changed or missing markers may prevent a response from being detected correctly during marking.</p>
+</div>
 
 <div style="border: 2px solid #0f766e; padding: 0.9rem 1rem; border-radius: 6px; background: #ecfdf5;">
 <strong>Submission</strong>

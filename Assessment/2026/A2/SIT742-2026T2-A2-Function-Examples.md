@@ -1,7 +1,5 @@
 # SIT742 2026T2 Assignment 2 Function Examples Guide
 
-Release level: student-facing
-
 This guide explains the expected input and output shapes for the three Part I functions in Assignment 2. It complements the [A2 Specification](SIT742-2026T2-A2-Specification.md), the [A2 Starter Notebook](SIT742-2026T2-A2-Starter.ipynb), and the [A2 Forecast Measures Guide](SIT742-2026T2-A2-Forecast-Measures-Guide.md).
 
 The examples below are illustrative only. Your real submission must work for the public `ISF-TDF2023` dataset, all 20 destinations, the required validation months, and the final forecast period.
