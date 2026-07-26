@@ -73,7 +73,8 @@
     ["stopwords_en.txt", "../../Assessment/2019/data/stopwords.txt"]
   ],
   "governance": {
-    "large_file_status": "review_pending",
+    "large_file_status": "retained_and_classified",
+    "retention_policy": "all_current_files_retained; future disposition requires individual source, licence, and dependency review",
     "provenance_status": "incomplete",
     "licence_status": "requires_file_or_source_specific_review",
     "removal_allowed_without_review": false

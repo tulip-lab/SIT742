@@ -22,6 +22,8 @@ Use the current unit site together with these 2026 materials:
 
 Materials under `2019/` to `2024/` are superseded historical records. They may use old datasets, policies, formats, marking structures, or technical requirements.
 
+These historical paths are intentionally preserved to avoid breaking existing references. Preservation is not approval for reuse.
+
 - Do not use them as current assessment instructions.
 - Do not assume that a historical task or dataset may be reused in a current offering.
 - Do not assume that a historical file's presence resolves copyright, licence, privacy, or academic-integrity concerns.

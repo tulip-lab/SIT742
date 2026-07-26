@@ -6,7 +6,15 @@ Original code in this repository is provided under the root [MIT License](LICENS
 
 ## Teaching Content
 
-Original SIT742 teaching content is currently distributed under the repository's existing licence unless a file states otherwise. A later explicit licence update may distinguish software code from narrative teaching content.
+Except where otherwise stated, original narrative teaching content for which the SIT742 Teaching Team or TULIP Lab holds the necessary rights is provided under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International licence](CONTENT-LICENSE.md).
+
+In mixed Jupyter notebooks:
+
+- code cells are covered by the MIT License unless stated otherwise;
+- original Markdown teaching content is covered by CC BY-NC-SA 4.0 unless stated otherwise;
+- embedded datasets, images, extracts, and other third-party resources retain their source-specific terms.
+
+The content licence includes attribution guidance and the official Creative Commons licence links.
 
 ## Datasets and Third-Party Resources
 
@@ -20,4 +28,4 @@ Before redistributing or adapting a dataset:
 4. check privacy, platform, and research-use restrictions;
 5. record unresolved cases instead of assuming the MIT License applies.
 
-The current practical-data inventory is in [Jupyter/data/README.md](Jupyter/data/README.md). Dataset-level provenance and licensing remain incomplete and require source-specific review.
+The current practical-data inventory is in [Jupyter/data/README.md](Jupyter/data/README.md). Dataset-level provenance and licensing remain incomplete and require source-specific review. No dataset inherits either the MIT License or CC BY-NC-SA 4.0 merely because it is stored in this repository.

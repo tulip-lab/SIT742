@@ -18,7 +18,7 @@
 ---
 
 - These unit materials include original teaching content and resources collected from external sources.
-- Repository code is provided under the [MIT License](LICENSE). Teaching content, datasets, and third-party resources require the checks described in [LICENSING.md](LICENSING.md).
+- Repository code is provided under the [MIT License](LICENSE). Original narrative teaching content is provided under [CC BY-NC-SA 4.0](CONTENT-LICENSE.md), except where stated otherwise. Datasets and third-party resources retain their source-specific terms; see [LICENSING.md](LICENSING.md).
 - If you found any issue/bug for this document, please submit an issue at [tulip-lab/sit742](https://github.com/tulip-lab/sit742/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/sit742)](https://github.com/tulip-lab/sit742/issues)
 - Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/sit742)](https://github.com/tulip-lab/sit742/pulls) 
 - Point of Contact :point_right: : [Prof. Gang Li](https://github.com/tuliplab)
@@ -41,6 +41,7 @@ Prepared by :tulip: **[TULIP Lab](http://www.tulip.org.au), Australia**
 - [Current 2026 assessment materials](Assessment/README.md#current-assessment)
 - [Practical dataset catalogue](Jupyter/data/README.md)
 - [Repository licensing and dataset-use guidance](LICENSING.md)
+- [Teaching content licence](CONTENT-LICENSE.md)
 
 Historical assessment materials remain available for reference, but they are superseded and must not be treated as current assessment instructions.
 

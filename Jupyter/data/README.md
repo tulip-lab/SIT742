@@ -15,6 +15,8 @@ The static dependency scan recorded in [dataset-manifest.json](dataset-manifest.
 
 A missing filename reference does not prove that a file is unused: notebooks may load a renamed download, extract a member from an archive, or describe an optional activity. Such files are review candidates, not deletion candidates.
 
+All 66 files in this snapshot are intentionally retained in their current paths. This catalogue classifies them only; it does not authorise deletion, deduplication, or externalisation. Any later disposition requires source, licence, and dependency review for the individual file.
+
 ## Large Files
 
 | File | Approximate size | Current filename reference |

@@ -22,7 +22,7 @@
     "historical_policy_wording_may_be_obsolete"
   ],
   "governance": {
-    "historical_path_status": "review_pending",
+    "historical_path_status": "preserved_with_prominent_warnings",
     "paths_changed_in_this_catalogue_update": false,
     "files_removed_in_this_catalogue_update": false
   }
