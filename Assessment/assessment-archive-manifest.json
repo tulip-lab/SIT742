@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Assessment/",
+  "snapshot_date": "2026-07-26",
+  "current": {
+    "path": "Assessment/2026/",
+    "classification": "current_student_facing_assessment",
+    "approved_public_artifact_count": 6
+  },
+  "historical_collections": [
+    {"year": 2019, "tracked_file_count": 5, "classification": "legacy_public_archive"},
+    {"year": 2020, "tracked_file_count": 6, "classification": "legacy_public_archive"},
+    {"year": 2021, "tracked_file_count": 2, "classification": "legacy_public_archive"},
+    {"year": 2022, "tracked_file_count": 3, "classification": "legacy_public_archive"},
+    {"year": 2023, "tracked_file_count": 6, "classification": "legacy_public_archive"},
+    {"year": 2024, "tracked_file_count": 26, "classification": "legacy_public_archive"}
+  ],
+  "warnings": [
+    "superseded_not_current_instructions",
+    "reuse_requires_explicit_review",
+    "dataset_provenance_and_licence_may_be_unresolved",
+    "historical_policy_wording_may_be_obsolete"
+  ],
+  "governance": {
+    "historical_path_status": "review_pending",
+    "paths_changed_in_this_catalogue_update": false,
+    "files_removed_in_this_catalogue_update": false
+  }
+}

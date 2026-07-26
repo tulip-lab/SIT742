@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "scope": "Jupyter/data/",
+  "snapshot_date": "2026-07-26",
+  "dependency_method": "static basename occurrence scan across 35 tracked Jupyter notebooks",
+  "governance_files_excluded_from_counts": [
+    "Jupyter/data/README.md",
+    "Jupyter/data/dataset-manifest.json"
+  ],
+  "summary": {
+    "data_file_count": 66,
+    "referenced_by_filename_count": 37,
+    "no_filename_reference_count": 29,
+    "files_at_least_5_mib": 11,
+    "large_files_without_filename_reference": 10
+  },
+  "large_files": [
+    {"file": "review.csv", "size_mib": 93.67, "dependency_status": "no_filename_reference_detected"},
+    {"file": "business_review_submission.zip", "size_mib": 34.59, "dependency_status": "no_filename_reference_detected"},
+    {"file": "item_listing_category.zip", "size_mib": 24.88, "dependency_status": "no_filename_reference_detected"},
+    {"file": "sf_crime_train.csv", "size_mib": 21.88, "dependency_status": "no_filename_reference_detected"},
+    {"file": "mnist_saved_model.zip", "size_mib": 20.62, "dependency_status": "no_filename_reference_detected"},
+    {"file": "kddcup.data.gz", "size_mib": 17.28, "dependency_status": "no_filename_reference_detected"},
+    {"file": "emnist.digits_letters.small.csv", "size_mib": 16.73, "dependency_status": "no_filename_reference_detected"},
+    {"file": "meta-review-business.csv", "size_mib": 9.35, "dependency_status": "no_filename_reference_detected"},
+    {"file": "names.zip", "size_mib": 6.95, "dependency_status": "no_filename_reference_detected"},
+    {"file": "2020T2Data.csv", "size_mib": 6.7, "dependency_status": "no_filename_reference_detected"},
+    {
+      "file": "shakespeare.txt",
+      "size_mib": 5.08,
+      "dependency_status": "referenced",
+      "notebooks": [
+        "Jupyter/M04-DataManipulation/M04F-Spark.ipynb",
+        "Jupyter/M04-DataManipulation/M04H-CS-WordCount.ipynb"
+      ]
+    }
+  ],
+  "no_filename_reference_detected": [
+    "2020T2Data.csv",
+    "Browser_Transactions_db.txt",
+    "Generic_Transactions_db.txt",
+    "Market_Basket.csv",
+    "Melbourne_bike_share.json",
+    "Melbourne_bike_share.xml",
+    "SOWC2014.xlsx",
+    "Store_Transactions_db.txt",
+    "Transactions_db.txt",
+    "baby_name_2008.csv",
+    "bank.csv",
+    "business_review_submission.zip",
+    "emnist.digits_letters.small.csv",
+    "en_final_table_2.csv",
+    "item_listing_category.zip",
+    "json_data2.json",
+    "kddcup.data.gz",
+    "kddcup.data_10_percent.gz",
+    "mbox-short.txt",
+    "meta-review-business.csv",
+    "mnist_saved_model.zip",
+    "names.zip",
+    "nyc_taxi.csv",
+    "ozone.csv",
+    "reuters_1.txt",
+    "reuters_2.txt",
+    "review.csv",
+    "sf_crime_train.csv",
+    "stopwords_en.txt"
+  ],
+  "byte_identical_groups": [
+    ["Generic_Transactions_db.txt", "Transactions_db.txt"],
+    ["baby_name_2008.csv", "baby_name_2008.txt"],
+    ["kddcup.data_10_percent.gz", "kddcup.gz"],
+    ["stopwords_en.txt", "../../Assessment/2019/data/stopwords.txt"]
+  ],
+  "governance": {
+    "large_file_status": "review_pending",
+    "provenance_status": "incomplete",
+    "licence_status": "requires_file_or_source_specific_review",
+    "removal_allowed_without_review": false
+  }
+}
