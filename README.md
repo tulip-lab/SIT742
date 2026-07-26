@@ -17,8 +17,8 @@
 
 ---
 
-- Materials in this module include resources collected from various open-source online repositories.
-- You are free to use, change and distribute this package.
+- These unit materials include original teaching content and resources collected from external sources.
+- Repository code is provided under the [MIT License](LICENSE). Original narrative teaching content is provided under [CC BY-NC-SA 4.0](CONTENT-LICENSE.md), except where stated otherwise. Datasets and third-party resources retain their source-specific terms; see [LICENSING.md](LICENSING.md).
 - If you found any issue/bug for this document, please submit an issue at [tulip-lab/sit742](https://github.com/tulip-lab/sit742/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/sit742)](https://github.com/tulip-lab/sit742/issues)
 - Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/sit742)](https://github.com/tulip-lab/sit742/pulls) 
 - Point of Contact :point_right: : [Prof. Gang Li](https://github.com/tuliplab)
@@ -35,6 +35,18 @@ Prepared by :tulip: **[TULIP Lab](http://www.tulip.org.au), Australia**
 
 ---
 
+## Start Here
+
+- [Practical and LabClasses index](Jupyter/LabClasses/README.md)
+- [Current 2026 assessment materials](Assessment/README.md#current-assessment)
+- [Practical dataset catalogue](Jupyter/data/README.md)
+- [Repository licensing and dataset-use guidance](LICENSING.md)
+- [Teaching content licence](CONTENT-LICENSE.md)
+
+Historical assessment materials remain available for reference, but they are superseded and must not be treated as current assessment instructions.
+
+---
+
 ## Modules
 
 You are recommended to use Cloud platform to run the materials, such as:
@@ -42,8 +54,7 @@ You are recommended to use Cloud platform to run the materials, such as:
 - [Google Colab](http://colab.research.google.com): which will be used in SIT742 practical classes.
 - [Databricks - Community version](https://community.cloud.databricks.com/): the original contributor to [Apache Spark](https://spark.apache.org/).
 
-The sister repository of this one can be found at (key resources are password protected, only available in CloudDeakin): 
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Modern--Data--Science-brightgreen)](https://github.com/tulip-lab/modern-data-science), which is more frequently updated with the Readings than CloudDeakin SIT742 site, but it tailored out all the key Cloud-First content. 
+The related [Modern Data Science repository](https://github.com/tulip-lab/modern-data-science) contains more general learning materials. Use this repository and the current SIT742 unit site for SIT742 practical and assessment instructions.
 
 | Module  |  Category  | Topic |  Module Notebooks |
 | :----: |  :---: | -------| :----- | 
@@ -66,4 +77,3 @@ Thanks goes to these wonderful people :tulip:
 
 
 Made with [contributors-img](https://contrib.rocks).
-
