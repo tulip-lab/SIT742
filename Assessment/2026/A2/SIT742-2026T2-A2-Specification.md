@@ -1,5 +1,16 @@
 # SIT742 2026T2 Assignment 2 Specification: Group Forecasting Project
 
+<div style="border: 3px solid #1d4ed8; padding: 0.9rem 1rem; border-radius: 6px; background: #eff6ff;">
+<strong>Forecasting Performance Determines Your Final Grade Band</strong>
+<p>Your Forecasting Performance Grade determines the grade band for your final A2 mark.</p>
+<ul>
+<li><strong>Forecasting measures:</strong> The grade is determined primarily by MASE. MAPE is used as supporting cross-check evidence.</li>
+<li><strong>Questions Q1-Q7:</strong> Your marks for these questions determine the exact final mark within the grade band.</li>
+<li><strong>Grade bands:</strong> HD: 80-100; D: 70-79; C: 60-69; P: 50-59; F: 0-49.</li>
+</ul>
+<p>For example, if your Forecasting Performance Grade is D, your final A2 mark will be between 70 and 79, with the exact mark determined by your marks for Questions Q1-Q7.</p>
+</div>
+
 <div style="border: 2px solid #b91c1c; padding: 0.9rem 1rem; border-radius: 6px; background: #fef2f2;">
 <strong>Required autograding markers</strong>
 <p>The starter notebook contains START/END comments such as <code>&lt;!-- A2:ANSWER:Q1:START --&gt;</code>. Do not delete, rename, edit, move, or reorder any <code>A2:ANSWER</code> marker. Write each response between the matching START and END markers for that question. Changed or missing markers may prevent a response from being detected correctly during marking.</p>
@@ -52,11 +63,6 @@ In this assignment, your group will build a reproducible forecasting workflow fo
 - explain the workflow in a compulsory group video.
 
 Any forecasting method is allowed, including statistical models, machine-learning models, deep-learning models, ensemble methods, rule-based baselines, or hybrid approaches. Marks are awarded for valid forecasting design, cutoff-safe implementation, reproducibility, forecast stability, forecast performance, and interpretation, not for using a specific algorithm.
-
-<div style="border: 2px solid #b45309; padding: 0.9rem 1rem; border-radius: 6px; background: #fffbeb;">
-<strong>Forecast Performance</strong>
-<p>Forecast performance is an important driver of the broad Part II outcome and strongly influences the overall assignment result. The final score still depends on valid forecast format, cutoff-safe and reproducible code, validation evidence, model rationale, selected-market analysis, communication quality, and the compulsory group video.</p>
-</div>
 
 <div style="border: 2px solid #475569; padding: 0.9rem 1rem; border-radius: 6px; background: #f8fafc;">
 <strong>Reproducibility and Stability</strong>
